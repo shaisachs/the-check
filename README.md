@@ -1,7 +1,7 @@
 
 Frankie's head bent over the calculator, strands of wavy hair floating in the breeze of the fan and occasionally bothering her figures. As her fingers flew across the keys the printer tape advanced steadily outward, spilling past the edge of the desk and onto the floor.
 
-She enjoyed spinning the thread of numbers in this way, though it was an arduous task that she regretted in hindsight every quarter. There was something pure in the ache of it all, something noble about making these little slips of papers, these greasy old receipts, manifest in physical form.
+She enjoyed spinning the thread of numbers in this way, though it was an arduous task that she regretted in hindsight every quarter. There was something pure in the ache of it all, something noble about making these little slips of papers, these greasy old receipts, gather together into a nice, tidy column.
 
 She finished a stack and looked up, as though someone else might have been standing over her. But there was no one in the cramped little office, just her desk and a chair opposite, struggling under the weight of a full years' worth of grubby paperworkj.
 
@@ -28,3 +28,5 @@ Frankie rifled through the receipts, her fingers padding through as though one s
 Of course it was not any one scrap of paper, but several of them put together that held the answer. But did it matter, really? What was the difference between two years, and two decades, when it came to something as fleeting as a memory? She would not be able to recover those days, even if she could reconstruct every last detail of that bygone season. Johnny was gone, the diner was far too successful; a walk down Main Street in the middle of the day was no longer all that peaceful.
 
 Frankie's eyebrows gathered into a frown. Still, she had to know.
+
+It was later that day when she cracked the lid open on her laptop and created a database she called "Johnny's checks." She thought, briefly, about creating a gizmo - or buying one, surely there was a way to buy one - that would read all of his receipts, one by one, and turn them into records for her database. She decided against it out of sheer obstinance; that would take time and she didn't want to bother. She wanted the answer to her question, not another mess of screws and wires on her desk. Once the question entered her mind, she simply couldn't let go of it.
