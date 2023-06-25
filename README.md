@@ -25,9 +25,11 @@ When was that? Two years ago? Five?
 
 Frankie rifled through the receipts, her fingers padding through as though one scrap of paper or the other might contain the answer.
 
-Of course it was not any one scrap of paper, but several of them put together that held the answer. But did it matter, really? What was the difference between two years, and two decades, when it came to something as fleeting as a memory? She would not be able to recover those days, even if she could reconstruct every last detail of that bygone season. Johnny was gone, the diner was far too successful; a walk down Main Street in the middle of the day was no longer all that peaceful.
+Of course it was not any one scrap of paper, but several of them put together that held the answer. But did it matter, really? What was the difference between two years, and two decades, when it came to something as fleeting as a memory? She would not be able to recover those days, even if she could reconstruct every last detail of that bygone season. Johnny was gone, a walk down Main Street in the middle of the day was no longer all that peaceful. The diner was far too successful; at one point she and Johnny had even talked about opening a second location.
 
-Frankie's eyebrows gathered into a frown. Still, she had to know.
+A man strolled through the park, walking not one, not two, but three dogs. He was supposed to have them on a leash, but they seemed gentle enough. At least until the big golden retriever lumbered up to Frankie, offering to slobber all over her legs and nearly sending the box of receipts flying. He apologized and quickly brought the dog to heel, and Frankie shrugged it off as he slunk off abashedly.
+
+Watching him go, Frankie's eyebrows gathered into a frown. She simply could not let her question rest; she had to know.
 
 It was later that day when she cracked the lid open on her laptop and created a database she called "Johnny's checks." She thought, briefly, about creating a gizmo - or buying one, surely there was a way to buy one - that would read all of his receipts, one by one, and turn them into records for her database. She decided against it out of sheer obstinance; that would take time and she didn't want to bother. She wanted the answer to her question, not another mess of screws and wires on her desk. Once the question entered her mind, she simply couldn't let go of it.
 
@@ -36,3 +38,7 @@ It started out simply enough - typing the receipts into her database, one by one
 She answered the question for herself soon enough - it was three years ago - but forgot it just as quickly. The database took on a life of its own, and she found that she couldn't easily put it out of her mind. What else could she put in it? Other receipts, certainly. Dates, prices, items ordered, of course. Could she remember how her customers felt after each order? The menu items they wanted to order, but didn't? The slices of pie that turned into three or four? She found that she could remember all of that, and she could not stop writing it down.
 
 Frankie worked feverishly for a day, then two. A week went by before she was done and she'd allow herself out of the office. When she finally emerged she felt threadbare, as though some giant machine were spinning and could barely stop its own momentum. But she was happy, too - thrilled at having begun something new, at having exhausted all the material she had at her disposal. Here, finally, was a comprehensive history of Johnny and his diner - every hash brown and omelette recorded for posterity. It was a tribute, perhaps, a monument to the measured hours and countless days and sleepless nights that had made this place what it was. But what was it?
+
+She allowed herself a few minutes in Johnny's favorite booth, a slice of pie stolen from the cross-hatched apple pie on display. Frankie took a bite, then two. Her feet pressed into the ground with a certain shade of melancholy, her fingertips clutched the table top as though it might otherwise slide away. Was she feeling grief? No, not that. It was something different.
+
+Something complete.
