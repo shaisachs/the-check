@@ -53,3 +53,13 @@ Something complete.
 "Look at all the different things you can do with a latte, for starters. You know someone out there is just stuffing an entire chocolate bar in their cup just to see what happens." Augusta measured a couple of sugar packets into her mug at once as though to emphasize the point. "And that's before you think about your savory coffees, with butter or olive oil or who knows what." An arch look from Augusta, and Frankie somehow knew what was coming next. "It's only a matter of time before someone makes a killing off ketchup coffee. What about it, coz? Might as well be this place!"
 
 Frankie did not bother to respond, but wrinkled her nose and pointedly turned her head to look at the display case.
+
+Augusta took the hint and gave her cousin a minute to stew. She picked up the mug and took a loud slurp, then set it down on the table so that the ceramic thumped loudly on the Formica.
+
+"So this database of yours." Augusta leaned her head to Frankie. "Kind of extraordinary. You digitized all your receipts? Going back how many years now?"
+
+Frankie licked her front teeth with her tongue. "Seventeen. I couldn't find some of the older ones." There was an apologetic tone in her voice.
+
+Augusta smirked in response. "Just seventeen years? I think we can work with that. And you actually know who ordered what? You've got names on these things?"
+
+"How many people do you think live in this town? Until the last couple of years when the tourists started coming through, it was pretty easy. Gus comes in, Johnnie would write his name on the check. Nothing special."
