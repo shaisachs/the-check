@@ -56,10 +56,16 @@ Frankie did not bother to respond, but wrinkled her nose and pointedly turned he
 
 Augusta took the hint and gave her cousin a minute to stew. She picked up the mug and took a loud slurp, then set it down on the table so that the ceramic thumped loudly on the Formica.
 
-"So this database of yours." Augusta leaned her head to Frankie. "Kind of extraordinary. You digitized all your receipts? Going back how many years now?"
+"So, this database of yours." Augusta leaned her head to Frankie. "Kind of extraordinary. You digitized all your receipts? Going back how many years now?"
 
 Frankie licked her front teeth with her tongue. "Seventeen. I couldn't find some of the older ones." There was an apologetic tone in her voice.
 
 Augusta smirked in response. "Just seventeen years? I think we can work with that. And you actually know who ordered what? You've got names on these things?"
 
-"How many people do you think live in this town? Until the last couple of years when the tourists started coming through, it was pretty easy. Gus comes in, Johnnie would write his name on the check. Nothing special."
+"How many people do you think live in this town? Until the last couple of years when the tourists started coming through, it was pretty easy. Gus comes in, Johnnie would write his name on the check. Same with Sandra. Same with everyone else. Nothing special." Peevishness crept into Frankie's voice, though she tried to hide it.
+
+It seemed to roll right past Augusta though, who was too busy assessing her plans. "So you've joined your database with the county's right? Vital records, births, deaths, that sort of thing, I assume?"
+
+Frankie's face was a picture of confusion.
+
+"You poor thing, you're new to this game. Here, let me show you." And with that Augusta got up, walked behind the counter, flounced through the swinging double doors next to the grill, and led Frankie into her own office.
