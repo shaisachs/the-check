@@ -69,3 +69,5 @@ It seemed to roll right past Augusta though, who was too busy assessing her plan
 Frankie's face was a picture of confusion.
 
 "You poor thing, you're new to this game. Here, let me show you." And with that Augusta got up, walked behind the counter, flounced through the swinging double doors next to the grill, and led Frankie into her own office.
+
+Frankie followed Augusta into the office. She closed her eyes and counted to ten in her head, exhaling loudly as she finished. Was Augusta always this condescending? Frankie tried to remember and supposed the answer was an clear and resounding yes. It had been some time since they were together, that was all. Perhaps, in the bargain, there was an extra spring in Augusta's step, a new note of triumph that Frankie had not seen previously. It was more than possible. Johnnie, for all his faults, had never acted this way; if anything he had always found Frankie slightly intimidating.
