@@ -71,3 +71,9 @@ Frankie's face was a picture of confusion.
 "You poor thing, you're new to this game. Here, let me show you." And with that Augusta got up, walked behind the counter, flounced through the swinging double doors next to the grill, and led Frankie into her own office.
 
 Frankie followed Augusta into the office. She closed her eyes and counted to ten in her head, exhaling loudly as she finished. Was Augusta always this condescending? Frankie tried to remember and supposed the answer was an clear and resounding yes. It had been some time since they were together, that was all. Perhaps, in the bargain, there was an extra spring in Augusta's step, a new note of triumph that Frankie had not seen previously. It was more than possible. Johnnie, for all his faults, had never acted this way; if anything he had always found Frankie slightly intimidating.
+
+Augusta was already tapping away at the keyboard. Frankie circled to the cramped space behind the chair in an effort to see what was happening. Her cousin was already deeply enmeshed in her work, apparently downloading something - actually a few somethings.
+
+Frankie sat down in a barely-perceptible huff.
+
+Augusta looked up. "See, by itself your receipts are just... data." She flipped the laptop around as though it would explain anything. "But once you've got someone's name on all those beautiful receipts... well, a lot more is possible. I'm grabbing vital records from the county, then I can join that data to yours. Births, deaths, marriages... you can gauge someone's entire life this way."
