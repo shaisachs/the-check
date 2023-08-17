@@ -64,16 +64,24 @@ Augusta smirked in response. "Just seventeen years? I think we can work with tha
 
 "How many people do you think live in this town? Until the last couple of years when the tourists started coming through, it was pretty easy. Gus comes in, Johnnie would write his name on the check. Same with Sandra. Same with everyone else. Nothing special." Peevishness crept into Frankie's voice, though she tried to hide it.
 
-It seemed to roll right past Augusta though, who was too busy assessing her plans. "So you've joined your database with the county's right? Vital records, births, deaths, that sort of thing, I assume?"
+It seemed to roll right past Augusta though, who was too busy assessing her plans. "So you've joined your database with the county's right? Vital records, that sort of thing, I assume?"
 
 Frankie's face was a picture of confusion.
 
 "You poor thing, you're new to this game. Here, let me show you." And with that Augusta got up, walked behind the counter, flounced through the swinging double doors next to the grill, and led Frankie into her own office.
 
-Frankie followed Augusta into the office. She closed her eyes and counted to ten in her head, exhaling loudly as she finished. Was Augusta always this condescending? Frankie tried to remember and supposed the answer was an clear and resounding yes. It had been some time since they were together, that was all. Perhaps, in the bargain, there was an extra spring in Augusta's step, a new note of triumph that Frankie had not seen previously. It was more than possible. Johnnie, for all his faults, had never acted this way; if anything he had always found Frankie slightly intimidating.
+Frankie followed Augusta into the office. She closed her eyes and counted to ten in her head, exhaling loudly as she finished. Was Augusta always this condescending? Frankie tried to remember and supposed the answer was a clear and resounding yes. It had been some time since they were together, that was all. Perhaps, in the bargain, there was an extra spring in Augusta's step, a new note of triumph that Frankie had not seen previously. It was more than possible. Johnnie, for all his faults, had never acted this way; if anything he had always found Frankie slightly intimidating.
 
 Augusta was already tapping away at the keyboard. Frankie circled to the cramped space behind the chair in an effort to see what was happening. Her cousin was already deeply enmeshed in her work, apparently downloading something - actually a few somethings.
 
 Frankie sat down in a barely-perceptible huff.
 
 Augusta looked up. "See, by itself your receipts are just... data." She flipped the laptop around as though it would explain anything. "But once you've got someone's name on all those beautiful receipts... well, a lot more is possible. I'm grabbing vital records from the county, then I can join that data to yours. Births, deaths, marriages... you can gauge someone's entire life this way."
+
+Augusta tapped away for a few more minutes in silence. "Wow, you have a lot of repeat customers."
+
+Frankie shrugged. "Most of the old-timers come in every day. There used to be a few that would show up for breakfast and dinner. Not so much anymore, though. Diner got popular, those folks got scarce."
+
+Augusta nodded without paying much attention. "Yeah, I can see that. Way more out of towners over the years. Here, let's pull in the Social Security database, that'll be way more matches."
+
+A few more minutes and Augusta was done. "Ok! Let's check it out." She flipped the screen around for Frankie's benefit, showing her a complicated-looking graph.
