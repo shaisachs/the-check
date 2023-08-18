@@ -82,6 +82,8 @@ Augusta tapped away for a few more minutes in silence. "Wow, you have a lot of r
 
 Frankie shrugged. "Most of the old-timers come in every day. There used to be a few that would show up for breakfast and dinner. Not so much anymore, though. Diner got popular, those folks got scarce."
 
-Augusta nodded without paying much attention. "Yeah, I can see that. Way more out of towners over the years. Here, let's pull in the Social Security database, that'll be way more matches."
+Augusta nodded without paying much attention. "Yeah, I can see that. Way more out of towners over the years. Here, let's pull in the Social Security database, that'll be a lot more matches."
 
 A few more minutes and Augusta was done. "Ok! Let's check it out." She flipped the screen around for Frankie's benefit, showing her a complicated-looking graph.
+
+Frankie wanted badly to tune out Augusta, but she had to admit there was something very compelling about what she was saying. The graph illuminuated the life history of her customers; new children, marriages, and sadly a few deaths. It was a little strange, as though she was seeing the future unfold. She had never thought that much about what happened after her customers walked out the door. They walked in, ordered off the menu, had breakfast, chatted a little, paid the check... and left. That was it. She hadn't quite pictured them walking out the door and having full lives of their own, outside the walls of the diner.
