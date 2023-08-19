@@ -58,9 +58,9 @@ Augusta took the hint and gave her cousin a minute to stew. She picked up the mu
 
 "So, this database of yours." Augusta leaned her head to Frankie. "Kind of extraordinary. You digitized all your receipts? Going back how many years now?"
 
-Frankie licked her front teeth with her tongue. "Seventeen. I couldn't find some of the older ones." There was an apologetic tone in her voice.
+Frankie licked her front teeth with her tongue. "Eighteen. I couldn't find some of the older ones." There was an apologetic tone in her voice.
 
-Augusta smirked in response. "Just seventeen years? I think we can work with that. And you actually know who ordered what? You've got names on these things?"
+Augusta smirked in response. "Just eighteen years? I think we can work with that. And you actually know who ordered what? You've got names on these things?"
 
 "How many people do you think live in this town? Until the last couple of years when the tourists started coming through, it was pretty easy. Gus comes in, Johnnie would write his name on the check. Same with Sandra. Same with everyone else. Nothing special." Peevishness crept into Frankie's voice, though she tried to hide it.
 
