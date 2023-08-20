@@ -89,3 +89,9 @@ A few more minutes and Augusta was done. "Ok! Let's check it out." She flipped t
 Frankie wanted badly to tune out Augusta, but she had to admit there was something very compelling about what she was saying. The graph illuminuated the life history of her customers; new children, marriages, and sadly a few deaths. It was a little strange, as though she was seeing the future unfold. She had never thought that much about what happened after her customers walked out the door. They walked in, ordered off the menu, had breakfast, chatted a little, paid the check... and left. That was it. She hadn't quite pictured them walking out the door and having full lives of their own, outside the walls of the diner.
 
 There was something obscene about seeing so many personal details laid out in front of her in this manner, as though she were looking at something not meant for her eyes. Yes, perhaps it was publicly available, but was it really meant for her eyes? She noticed a narrow bar from several years ago; a single birth in one of her customers' families. Frankie realized with a start that the spot on the graph was Gus's granddaughter, whose arrival he announced loudly and proudly to anyone who crossed his path at the time. That was years ago, and now that same granddaughter was a customer who came in with Gus every Sunday.
+
+Augusta was saying something about a model; Frankie had not been paying attention. "It's pretty surprising what you can do with this much data," she concluded.
+
+Frankie shook her head to clear her thoughts. "You want to do what exactly?"
+
+Augusta flipped the screen around and started tapping again. "Build a model. We've got a bunch of receipts from your customers on the one hand, and really good vital records on the other. Now I can see if there's a relationship between what they're ordering in the diner, and what's going on outside the diner. Just a little data magic, that's all."
