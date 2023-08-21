@@ -48,7 +48,7 @@ Something complete.
 
 ***
 
-"It's got to be one of the most flexible substances in the world, if you think about it." Cousin Augusta sat across from Frankie in the booth, absently stirring a mug of coffee. She had walked through the door of the diner only a few minutes ago, and already she was getting on Frankie's nerves. Why, though?
+"It's got to be one of the most flexible substances in the world, if you think about it." Cousin Augusta sat across from Frankie in the booth, absently stirring a mug of coffee. She had walked through the door of the diner only a few minutes ago, and already she was getting on Frankie's nerves.
 
 "Look at all the different things you can do with a latte, for starters. You know someone out there is just stuffing an entire chocolate bar in their cup just to see what happens." Augusta measured a couple of sugar packets into her mug at once as though to emphasize the point. "And that's before you think about your savory coffees, with butter or olive oil or who knows what." An arch look from Augusta, and Frankie somehow knew what was coming next. "It's only a matter of time before someone makes a killing off ketchup coffee. What about it, coz? Might as well be this place!"
 
@@ -95,3 +95,9 @@ Augusta was saying something about a model; Frankie had not been paying attentio
 Frankie shook her head to clear her thoughts. "You want to do what exactly?"
 
 Augusta flipped the screen around and started tapping again. "Build a model. We've got a bunch of receipts from your customers on the one hand, and really good vital records on the other. Now I can see if there's a relationship between what they're ordering in the diner, and what's going on outside the diner. Just a little data magic, that's all."
+
+"You think my omelettes are killing people?" Frankie asked.
+
+"Not quite. More like... the people ordering your omelettes tend to have things happen to them, and there might be a relationship between the one and the other," Augusta replied while tapping away. She looked up for a minute. "Ok. This will take a little while to run. Maybe time for one of those life-changing omelettes?"
+
+Over breakfast Augusta explained her idea a little more fully. With a large and well-annotated data set like Frankie's, she could figure out how orders in the dinner correlated to life events outside it. From that, she could predict how certain orders might be associated with a long and full life.
