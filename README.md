@@ -101,3 +101,7 @@ Augusta flipped the screen around and started tapping again. "Build a model. We'
 "Not quite. More like... the people ordering your omelettes tend to have things happen to them, and there might be a relationship between the one and the other," Augusta replied while tapping away. She looked up for a minute. "Ok. This will take a little while to run. Maybe time for one of those life-changing omelettes?"
 
 Over breakfast Augusta explained her idea a little more fully. With a large and well-annotated data set like Frankie's, she could figure out how orders in the dinner correlated to life events outside it. From that, she could predict how certain orders might be associated with a long and full life.
+
+"You're telling me I can tell someone how long they're going to live based on which special they pick out?" Frankie speared a potato. She couldn't help but aim a skeptical scowl at Augusta.
+
+Augusta tilted her head to the side and twisted her mouth into a funny half-smirk, as though carefully assessing her cousin. "Maybe not quite that simple. One order isn't quite enough signal by itself. But a bunch of orders strung together? Now that starts to get interesting." Shre drummed the tabletop with her fingertips. "And it's not just life expectancy. Births and marriages are in there too. Kind of interesting, right?"
