@@ -102,6 +102,16 @@ Augusta flipped the screen around and started tapping again. "Build a model. We'
 
 Over breakfast Augusta explained her idea a little more fully. With a large and well-annotated data set like Frankie's, she could figure out how orders in the dinner correlated to life events outside it. From that, she could predict how certain orders might be associated with a long and full life.
 
-"You're telling me I can tell someone how long they're going to live based on which special they pick out?" Frankie speared a potato. She couldn't help but aim a skeptical scowl at Augusta.
+"You're telling me I can tell someone how long they're going to live based on which breakfast special they pick out?" Frankie speared a potato. She couldn't help but aim a skeptical scowl at Augusta.
 
 Augusta tilted her head to the side and twisted her mouth into a funny half-smirk, as though carefully assessing her cousin. "Maybe not quite that simple. One order isn't quite enough signal by itself. But a bunch of orders strung together? Now that starts to get interesting." Shre drummed the tabletop with her fingertips. "And it's not just life expectancy. Births and marriages are in there too. Kind of interesting, right?"
+
+Frankie considered this word for a moment, weighing it carefully. There was something uncanny in this idea. "I don't know if I'd say 'interesting' exactly. Creepy, maybe? It makes me want to lie down, if I'm telling the truth." She did feel very tired all of a sudden. She glanced around the diner, taking in the handful of regulars and the unfamiliar faces at the same time. Did she really want to know all that much about them? It was one thing to hear about a messy divorce while pouring a cup of coffee, another thing entirely to look it up alongside wedding anniversaries and great-grandchildren.
+
+Augusta, apparently, had not noticed this stream of thought. She had pulled out her laptop and cracked it open, tapping away on the keys. She had not changed much in this way, apparently - Augusta was always ten steps ahead of whoever she was talking to. Maybe she didn't hear what Frankie had said, maybe she hadn't properly taken Frankie's temperature - more likely, she wasn't terribly concerned with the thermometer reading. Momentarily she spun the laptop around so that it faced Frankie. The screen showed a fancy website replete with tablets and other gizmos.
+
+"The first step is to digitize, see? You've got plenty of runway to afford a system like this one. Order it today, we can have your whole shop up-to-date this time next week. You'll never have to dig through paper receipts. again."
+
+Frankie didn't bother to look at the screen; she had a perfectly good notion what Augusta was trying to show her. In truth she'd thought about digitizing her diner before, but there was something nauseating about the picture her cousin was painting. "First step? What exactly do you have in mind as the next step?"
+
+Augusta breathed out heavily through her nose, closed her eyes and counted to ten. It would be a longer conversation then she thought. Her eyes flicked to the clock on the wall. Another hour before the lunch crowd arrived. No need to get too hung up on digitization, that wasn't the real point anyway. Better to get to the point, to show Frankie just how exciting things could get. There was still just enough time to convince her recalcitrant cousin that she could turn this tiny but buzzing little diner into something altogether new.
