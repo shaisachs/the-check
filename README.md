@@ -115,3 +115,7 @@ Augusta, apparently, had not noticed this stream of thought. She had pulled out 
 Frankie didn't bother to look at the screen; she had a perfectly good notion what Augusta was trying to show her. In truth she'd thought about digitizing her diner before, but there was something nauseating about the picture her cousin was painting. "First step? What exactly do you have in mind as the next step?"
 
 Augusta breathed out heavily through her nose, closed her eyes and counted to ten. It would be a longer conversation then she thought. Her eyes flicked to the clock on the wall. Another hour before the lunch crowd arrived. No need to get too hung up on digitization, that wasn't the real point anyway. Better to get to the point, to show Frankie just how exciting things could get. There was still just enough time to convince her recalcitrant cousin that she could turn this tiny but buzzing little diner into something altogether new.
+
+***
+
+I walked through the door without really thinking about the fact that my sister was on the other side of it. It didn't seem like anything special: some tables, some customers, menus and dishes here and there. A diner like any other. I had been promised something else, by inscrutable text message as always. What did I think I'd find here, after all, a life-changing way of delivering toast and pastries? How many ways are there of delivering carbs to customers? It was a question I didn't have much time to consider, in any case; in a minute I was swept up.
