@@ -118,4 +118,20 @@ Augusta breathed out heavily through her nose, closed her eyes and counted to te
 
 ***
 
-I walked through the door without really thinking about the fact that my sister was on the other side of it. It didn't seem like anything special: some tables, some customers, menus and dishes here and there. A diner like any other. I had been promised something else, by inscrutable text message as always. What did I think I'd find here, after all, a life-changing way of delivering toast and pastries? How many ways are there of delivering carbs to customers? It was a question I didn't have much time to consider, in any case; in a minute I was swept up.
+I walked through the door without really thinking about the fact that my sister was on the other side of it. It didn't seem like anything special: some tables, some customers, menus and dishes here and there. It was a diner like any other. I had been promised something else, by inscrutable text message as always. What did I think I'd find here, after all, a life-changing way of delivering toast and pastries? How many ways are there of bringing carbs to customers? My thoughts were cut off by the ringing of the bell above the door as it swung shut.
+
+I took another look around. My sister was nowhere to be seen; perhaps she was in the back. No matter, it gave me some time to gather myself. I took a seat at the counter on a swiveling bar stool and set my things down on the floor. The waitress was, thank goodness, a stranger who didn't recognize me. She gave me a disinterested "what'll it be?" as though I were any other face in a crowd. I'd just wrapped up a long drive; her sullen invitation and perfunctory manners were all wonderfully inviting. I ordered a slice of pie.
+
+I was midway through my first bite when I heard a burst of applause from a far corner. A small crowd of people erupted in some kind of cheer. Glancing over, I could see cell phones being brandished from numerous angles and a stranger at a neighboring booth pressed into service of taking some group photos.
+
+"Another proposal." The waitress had caught me staring, and I swiveled around to hear what she was saying. "Third one this morning. PLace is a honest-to-goodness zoo." She poured me a mug of coffee I hadn't requested, and I was instantly grateful. I took a swig.
+
+Just then, the curtain leading to the back office swung open, and my sister strode through it. So much for slinking through the diner unnoticed.
+
+Augusta rushed around to the other side of the counter, wrapping me in a bear hug before I had a chance to get up. "Sis! So glad you could get here! Did you catch that last proposal? Isn't this place great?"
+
+My sister was something else. A little aloof and obscure by text message or in letters, her manners pierced right through that facade in person. It was more than a little disarming.
+
+My cousin Frankie - more grounded and plain-spoken, but also a good deal sadder than I remembered her - followed in Augusta's wake. She greeted me with a quick peck on the cheek, then huffed over to the table with the newly-engaged couple to offer her congratulations.
+
+While Frankie was occupied, Augusta nicked off my puzzled look with a breathless bit of update. Frankie's database of receipts, and a little bit of clever programming on Augusta's part, had helped to personalize the diner. Each table was equipped with a special machine that could suggest highly customized dishes that would guarantee a long and happy life to each and every customer. News had spread quickly, and the diner proved an instant hit with couples who wanted to start an engagement off on the right foot.
