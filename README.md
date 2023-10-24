@@ -106,7 +106,7 @@ Over breakfast Augusta explained her idea a little more fully. With a large and 
 
 Augusta tilted her head to the side and twisted her mouth into a funny half-smirk, as though carefully assessing her cousin. "Maybe not quite that simple. One order isn't quite enough signal by itself. But a bunch of orders strung together? Now that starts to get interesting." Shre drummed the tabletop with her fingertips. "And it's not just life expectancy. Births and marriages are in there too. Kind of interesting, right?"
 
-Frankie considered this word for a moment, weighing it carefully. There was something uncanny in this idea. "I don't know if I'd say 'interesting' exactly. Creepy, maybe? It makes me want to lie down, if I'm telling the truth." She did feel very tired all of a sudden. She glanced around the diner, taking in the handful of regulars and the unfamiliar faces at the same time. Did she really want to know all that much about them? It was one thing to hear about a messy divorce while pouring a cup of coffee, another thing entirely to look it up alongside wedding anniversaries and great-grandchildren.
+Frankie considered this word for a moment, weighing it carefully. There was something uncanny in this idea. "I don't know if I'd say 'interesting' exactly. Creepy, maybe? It makes me want to lie down, if I'm telling the truth." She did feel very tired all of a sudden. She glanced around the diner, taking in the handful of regulars and the unfamiliar faces at the same time. Did she really want to know all that much about them? It was one thing to hear about a new great-grandchild while pouring a cup of coffee, another thing entirely to look it up alongside wedding anniversaries and deaths in the family.
 
 Augusta, apparently, had not noticed this stream of thought. She had pulled out her laptop and cracked it open, tapping away on the keys. She had not changed much in this way, apparently - Augusta was always ten steps ahead of whoever she was talking to. Maybe she didn't hear what Frankie had said, maybe she hadn't properly taken Frankie's temperature - more likely, she wasn't terribly concerned with the thermometer reading. Momentarily she spun the laptop around so that it faced Frankie. The screen showed a fancy website replete with tablets and other gizmos.
 
@@ -134,4 +134,30 @@ My sister was something else. A little aloof and obscure by text message or in l
 
 My cousin Frankie - more grounded and plain-spoken, but also a good deal sadder than I remembered her - followed in Augusta's wake. She greeted me with a quick peck on the cheek, then huffed over to the table with the newly-engaged couple to offer her congratulations.
 
-While Frankie was occupied, Augusta nicked off my puzzled look with a breathless bit of update. Frankie's database of receipts, and a little bit of clever programming on Augusta's part, had helped to personalize the diner. Each table was equipped with a special machine that could suggest highly customized dishes that would guarantee a long and happy life to each and every customer. News had spread quickly, and the diner proved an instant hit with couples who wanted to start an engagement off on the right foot.
+While Frankie was occupied, Augusta nicked off my puzzled look with a breathless bit of update. Frankie's database of receipts, and a little bit of clever programming on Augusta's part, had helped to personalize the diner. Each table was equipped with a special machine that looked something like a tiny jukebox. Each one could suggest highly customized dishes that would guarantee a long and happy life to each and every customer. News had spread quickly, and the diner proved an instant hit with couples who wanted to start an engagement off on the right foot.
+
+It was my luck, I guess, that I was there to see the whole thing carved up into little pieces and blown carelessly every which way.
+
+Not ten minutes after I had sat down, an angry couple huffed in through the door. They were young and dressed breezily, shorts with T-shirts, and I'm quite sure the man was wearing sandals. The expression on their face was something else - ice-cold, even a little meancing. Something in the woman's face made the bell that sounded as they walked through the door seem like a kind of death knell. They looked around to find Frankie, stomped off in her direction, and sliced through the little speech she liked to give all her newly-engaged couples.
+
+"Some diner you run here!" the woman interjected. "What do you have to say for yourself?"
+
+Frankie was as flabbergasted as the rest of us, and looked around the crowd as though someone might clue her in to what was happening. With no answers forthcoming, she merely stared blankly back at the woman who had accosted her.
+
+Some time later I learned their names were the Temleys. Michael and Janet. But that wasn't particularly relevant at the moment.
+
+"The whole thing is a lie!" The man called Michael spit out. "Those... those things don't help at all!" He pointed to one of the tiny jukeboxes.
+
+Frankie held her hands up as though to calm down the angry couple, though there was little hope of that. "Can we just slow down a minute? What is going on here?" She seemed almost desparate for some semblance of calm.
+
+Out of the corner of my eye I saw Augusta crumple. She knew what was wrong. Or perhaps she just sensed it. I had not seen my sister defeated very often, but at this particular moment she seemed to know she had met her match. Her little jukeboxes had been cut down to size.
+
+To her credit, Augusta rose to the occasion. Before I knew what was happening she had stepped between Frankie and the angry couple. "Did something not work out for the two of you... is that it?" she offered with her sweetest composure.
+
+It was not really enough.
+
+The woman, Janet, let loose with a good long tirade, the couple's sad tale of woe, which had apparently begun the last time they had been to the diner. Since then, there were fights, betrayals, and even a death in the family - all in a few weeks! It had all culminated in a tear-filled breakup earlier this day. Which lead, inevitably, to the couple marching through the door of Frankie's diner, demanding some kind of explanation.
+
+It was all over faster than it started, and eventually, the man and woman stormed out, Frankie meekly offering them dinner on the house. They did not seem particularly likely to take her up on the offer.
+
+For a while the whole place was buzzing with conversation about what had happened, and customers seemed all too keen to swap gossip with one another - what they had seen, what on earth would possess two people to cause such a scene, and on and on. Frankie and Augusta slunk back into the office; having no place better to go, I went back there with them.
