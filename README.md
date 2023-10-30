@@ -167,3 +167,11 @@ It did not take very long for Augusta to figure out what had happened. "Just not
 Frankie didn't bother with an I-told-you-so, since that was already painfully obvious. She grimly sat forward at her desk, elbows planted into the surface as though gripping for purchase. I could tell what she was thinking, what we were all thinking - this mad-cap scheme would ultimately be the death of her diner. The beloved little thing she had started with Johnny all those years ago, which had seen so many of her friends and neighbors walk through its doors, which she had untoldd hours of hard work into - it was all doomed. Somehow this unwise experiment of Augusta's would ruin it all.
 
 We would turn out to be right. Bad gossip travels fast in a small town, and Frankie's diner was a small town diner through and through. It didn't take long for the day's events to make their way to every customer within a hundred miles of the place, and Frankie's reputation was ruined, it seemed, overnight. Worst of all were the whispers about just what went into those magical little jukeboxes, and what kind of nefarious things Frankie had done to invent them. That was totally undeserved, of course, but it didn't matter - the bad reputation the diner had acquired allowed people to believe almost anything.
+
+As for myself, how did I feel about the whole turn of events?
+
+For starters, I was sad for Frankie, of course. She was my cousin, a decent person, a loving member of her community. The diner meant a lot to her and to Johny, anyone could see that. Seeing all that hard work undone was heartbreaking.
+
+Probably I should have been angry with Augusta. Clearly it was her wild idea that cut the diner's life short. Had she done nothing with Frankie's database, there would have been no tiny jukeboxes, no disastrous matches, no gossip. The diner would be alive and well.
+
+But on the other hand - it was hard to be angry with Augusta. She was only trying to help, not just Frankie but Frankie's customers as well. She made one small mistake that proved to be fatal. It was the kind of mistake anyone could make, a simple error of omission. Who among us can say that we always have the complete picture we need to make a good decision - in any situation? When all was said and done, she simply forgot to review the check.
