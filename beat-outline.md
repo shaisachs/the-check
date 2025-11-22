@@ -143,16 +143,19 @@ He’s disoriented but resigned.
 
 13. Meeting his new partner — the narrator of The Game
 
-She introduces herself with the chosen name (e.g., Alma Church).
-Hints subtly tie her to The Game:
+Mathi meets his newly assigned partner: Alma Church (or whichever name you choose).
+She’s calm, precise in her speech, observant without being intense.
 
-A mannerism of meticulous thinking
+During their first conversation, she glances at her phone and apologizes lightly:
 
-A notebook with game design sketches
+“Sorry — my sister and I play correspondence chess.
+It’s my move.”
 
-A sentence structure reminiscent of her narrative voice
+That’s it.
+No exposition. No elaboration.
+A tiny, almost throwaway gesture that subtly ties her to The Game’s narrator without drawing attention to it.
 
-Mathi recognizes in her the calm clarity he's been missing.
+This choice keeps the worlds connected without calling attention to the connection.
 
 14. Instant synergy
 
@@ -189,18 +192,24 @@ IV. KETSU — RESOLUTION / HARMONY
 
 Time jump to the future. The uses of data diverge: one destructive, one humane.
 
-17. Future scene: back at the diner
+17. Future scene: back at the diner — the climate project
 
-Mathi and Alma sit in “their” booth at the diner.
-They are relaxed, warm, building a collaborative passion project:
+Mathi and Alma sit together at a corner table in the diner. Laptops open, empty plates pushed aside.
 
-Could be open-source civic tech
+They’re working on something climate-focused — a tree-planting coordination app:
 
-Could be community matchmaking
+maybe it predicts micro-climates for ideal planting
 
-Could be some educational platform
+or matches volunteers with under-resourced neighborhoods
 
-Something small, human, good.
+or connects local nurseries with community groups
+
+It should feel practical, hopeful, and modest in scope:
+tech as a tool for repair, not disruption.
+
+They’re doing it because they enjoy it, not because anyone told them to.
+
+The diner hums around them. The matchmaker prints occasionally for other patrons. Their own table is simply… peaceful.
 
 18. The corporation’s collapse
 
@@ -239,27 +248,22 @@ Flourishing
 
 Non-coercive pairing
 
-21. Closing gesture
+21. Closing gesture (less heavy-handed, more natural)
 
-The printer spits out a receipt.
-Frankie reads it, smiles.
+The printer chugs and spits out a receipt for their lunch.
 
-She hands it to Mathi and Alma.
+Frankie drops it off without comment.
 
-Suggested Match: each other (again).
-Project: keep going.
+Mathi glances at it, expecting the total — but there’s an extra line, small and almost incidental:
 
-Light, warm, understated.
+“Good team.”
 
-22. Final note
+No names.
+No imperative.
+No “suggested match.”
+Just a quiet affirmation, as if the system is noticing what’s already true.
 
-A subtle callback to Johnny:
+They share a grin, or maybe they don’t. They simply keep working.
 
-Frankie touches his old mug
-
-Or a photo on the wall
-
-Or a line in his handwriting on a recipe card
-Nothing explicit.
-
-The magic continues because people use it kindly.
+The magic remains understated and human-aligned:
+never prescriptive, just observant.
