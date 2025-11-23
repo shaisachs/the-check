@@ -91,3 +91,22 @@ The man folded his slip and tucked it into his wallet. For later, he told himsel
 The receipt printer behind the counter whirred, sputtered, then spat out another check as though clearing its throat. The sound carried a faint sense of deliberation.
 
 As if the machine was thinking.
+
+Draft — Beat 4: Establishing the tone of techno-magical realism
+
+By the time the man stood to leave, the diner had taken on a quality he couldn’t quite place—something faintly animate, as if the air kept remembering things.
+
+The receipt printer behind the counter gave a small, syncopated cough, then a hesitant chk-chk-chhk as it fed new paper through. Frankie didn’t touch it. No one had pressed a button. The machine worked in its own rhythm: pauses that felt contemplative, followed by little bursts of decisiveness. It reminded him, absurdly, of someone muttering to themselves while solving a crossword.
+
+The overhead lights hummed with a soft warmth, flickering not in the way of old fixtures but in a way that suggested attention—like they brightened half a shade whenever someone laughed, dimmed gently when a conversation turned private. The griddle’s low sizzle blended with the refrigerator’s steady breath, creating an odd harmony, a domestic heartbeat under the mundane noise.
+
+A couple at a side booth received their check. The man watched as the printer finished with a theatrical final twitch—almost a flourish—and Frankie tore the paper free. She set it on their table without ceremony. Neither diner looked surprised when they read the line at the bottom. They nodded once, like this was something they’d expected.
+
+Maybe everyone here had grown accustomed to the diner’s small murmurs of insight.
+Maybe nobody questioned where the suggestions came from because the answers, if they existed, were less interesting than the results.
+
+The man lingered by the door for a moment, listening. The whole place seemed to exhale, a soft release of air that wasn’t mechanical so much as communal—an organism settling back into its posture after being briefly observed.
+
+Outside, the highway roared indifferently. Here, something else was happening. Something quiet. Something that behaved as though data had a pulse.
+
+He stepped into the sunlight, receipt tucked securely in his wallet, the line about LENORA — Wednesdays repeating in the back of his mind like a tune he hadn’t meant to memorize.
