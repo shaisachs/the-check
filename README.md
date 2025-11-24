@@ -110,3 +110,127 @@ The man lingered by the door for a moment, listening. The whole place seemed to 
 Outside, the highway roared indifferently. Here, something else was happening. Something quiet. Something that behaved as though data had a pulse.
 
 He stepped into the sunlight, receipt tucked securely in his wallet, the line about LENORA — Wednesdays repeating in the back of his mind like a tune he hadn’t meant to memorize.
+
+## Part II — Development (Draft of Beats 5–9)
+
+**5. Augusta arrives to help Frankie “clean up”**
+
+The diner was closed, a rarity announced only by the handwritten sign Frankie taped to the door: *BE BACK TOMORROW — PROBABLY*. Inside, the lights were half-up, that strange pre-opening glow that made the chrome fixtures look like they were just waking.
+
+Augusta stood in the middle of the aisle with her hands on her hips, already regretting agreeing to help and yet clearly energized by the challenge. She had the alert, tinkering air of someone who treated clutter as an opportunity.
+
+"I swear it wasn't this bad when Johnny was here," Frankie muttered, nudging a dolly piled with boxes toward the storage room.
+
+"That’s because Johnny knew where everything was," Augusta said, more gently than the words implied. "He always meant to organize this."
+
+Frankie’s breath caught almost imperceptibly. It wasn’t grief, exactly; more like a memory she’d stepped on by accident.
+
+Augusta didn’t push. She just picked up the nearest box and said, "Let’s start with whatever’s weighing the most."
+
+They worked quietly. Frankie’s competence was physical: lifting, sorting, making space where none existed. Augusta’s was interpretive: reading labels, raising eyebrows, asking the occasional question that revealed she saw more than she let on.
+
+Snowmelt dripped from the roof outside. The diner’s hum felt subdued, as if the appliances were listening in.
+
+---
+
+**6. The discovery of the boxes**
+
+When Frankie finally forced the storage door open, a single box slid out and thumped against her boot.
+
+"Oh no," she said flatly.
+
+The room was stacked to the ceiling with cardboard cartons, all of them labeled in Johnny’s handwriting—his neat, looping script that bordered on calligraphy. Augusta crouched to read the nearest one.
+
+"Receipts A–D, 1998–2003," she said aloud. She checked another. "Pie Orders. Also 1998—Johnny really liked 1998."
+
+Frankie rubbed the bridge of her nose. "He saved everything. I kept meaning to toss them but… you know."
+
+Augusta’s face softened. She trailed a finger over the label, the ink faded but intact. "These are incredible."
+
+"They're receipts," Frankie said.
+
+"Yes. Exactly."
+
+She opened a random box, and the smell of old thermal paper and dust rose like the ghost of a filing cabinet. Inside were bundles tied with baker’s twine—hundreds, thousands of slips. Some had tiny circles drawn around menu items; some had arrows linking two orders; some had cryptic notes in Johnny’s hand: *seemed sad today*, *ask about the grandbaby*, *good tippers (!!!)*.
+
+Augusta’s eyes went wide. "Frankie. You have an archive."
+
+Frankie looked mortified.
+
+---
+
+**7. Augusta’s idea — digitizing Johnny’s receipts**
+
+The next morning, Augusta arrived with a flatbed scanner she claimed she "borrowed" but which Frankie suspected had been liberated from a university lab.
+
+"You’re not actually going to scan all that," Frankie said, watching Augusta set up cables across the counter.
+
+"Not all at once," Augusta replied. "But the paper’s going to mold. Ink’s already fading. If we don’t capture it now, we lose it forever."
+
+She settled into a rhythm: lift, flatten, scan, file. Frankie drifted between skepticism and reluctant awe.
+
+"You know these aren’t exactly historical documents," Frankie said.
+
+Augusta held up a receipt with three arrows, two circles, and the note *these two again—check table 4 history?*.
+
+"Maybe not to the Smithsonian," she said, "but to someone. Look at this—he’s tracking relationships without meaning to. Or maybe he did mean to."
+
+Frankie hesitated. "Johnny liked people. That was all."
+
+Augusta didn’t argue. She just kept scanning.
+
+Hours passed. The scanner made its soft, even breaths. The printer behind the counter occasionally whirred as if curious about the new device sharing its territory.
+
+Something in the air felt like a system waking.
+
+---
+
+**8. The magical phenomenon emerges**
+
+It started on a Tuesday, because of course it did.
+
+Augusta had scanned tens of thousands of receipts by then, feeding Johnny’s patterns into a simple program she’d written to index dates, menu items, notes. Nothing fancy—just enough to keep them searchable.
+
+Except the index wasn’t staying simple.
+
+She noticed the first anomaly when two names appeared together on a search result Johnny had never linked. Then another cluster. Then a suggestion appeared on the printer during the lunch lull—no order, no button pressed.
+
+"Did you print something?" Frankie asked from the grill.
+
+"No," Augusta said.
+
+The printer produced a second slip, slower this time, as if testing its own motor.
+
+The line at the bottom read:
+
+**"You should ask her about Thursdays."**
+
+"Her who?" Frankie asked.
+
+The printer churned out a third slip, blank except for a single comma in the middle.
+
+"Okay," Augusta said, staring at it. "That’s new."
+
+They both stood in silence. The machines hummed around them, not ominous, not dramatic—just purposefully.
+
+Frankie finally said, "I’m not dealing with this today," and went back to flipping omelets.
+
+Augusta kept watching the printer.
+
+---
+
+**9. The matchmaker becomes a hit**
+
+It didn’t take long for the town to notice. A tourist posted a photo of her receipt online—*“Suggested collaborator for your quilt project”* —and within a week people were detouring miles out of their way to get lunch.
+
+The suggestions grew—not intrusive, just observant. A couple looking to adopt found themselves linked with a retired social worker who "liked lemon bars on Sundays." Two teenagers who always sat separately were nudged toward the same booth with the line, *"You both doodle constellations."*
+
+Locals swore the matchmaker saved their marriages, helped them find bandmates, reconnected them with estranged family members. Someone joked the receipts knew them better than their therapist.
+
+A journalist came through and wrote about the "receipt prophet," calling the diner "a small-town oracle disguised as a grill." Frankie rolled her eyes when she read it, but business doubled.
+
+The diner changed, but gently. People lingered longer. Laughed more. The printer chugged along like it had always been alive.
+
+Frankie and Augusta didn’t know exactly how the system worked. They didn’t try to.
+
+It was enough that it helped.
