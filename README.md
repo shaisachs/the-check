@@ -234,3 +234,161 @@ The diner changed, but gently. People lingered longer. Laughed more. The printer
 Frankie and Augusta didn’t know exactly how the system worked. They didn’t try to.
 
 It was enough that it helped.
+
+10. Hard cut to a corporate office
+
+A disorienting jolt.
+
+Fluorescent light reflected in glass partitions.
+Screens everywhere, all slightly too bright.
+A floor plan with no corners — employees visible from all angles, yet somehow isolated.
+
+People move like they’re following half-remembered choreography:
+
+desk pods reconfigured overnight, leaving tape outlines on the carpet
+
+monitors blinking with unreadable dashboards
+
+managers delivering updates they don’t fully understand
+
+The tone is impersonal, frictionless, subtly frantic.
+
+An announcement hums over speakers:
+
+“Weekly re-org complete. Please check your pairing assignments.”
+
+The line loops once, as if the system stuttered.
+
+No one reacts.
+
+11. The “pairing algorithm”
+
+In the all-hands meeting, a cheerful executive introduces the new model.
+
+“We’re proud to deploy our synergy alignment system. It matches collaborators using cutting-edge behavioral adjacency metrics. Trust the process!”
+
+Smiles that don’t reach eyes.
+
+Slides flash by too quickly:
+
+arrows connecting employee ID numbers
+
+clusters reorganizing in real-time
+
+a heat map of “compatibility surfaces”
+
+None of it is explained.
+
+“Just know,” the executive adds, “your new partner is the one you were meant to have.”
+
+The applause is thin, scattered, almost embarrassed.
+
+12. Enter Mathi
+
+Mathi arrives at his desk to find half the monitors gone and all the chairs rearranged.
+
+A notification pops up:
+
+“Your team no longer exists.”
+
+Below it, a code:
+
+PAIR-7C4-ALN.Z
+
+The code pulses once, like a heartbeat.
+
+Mathi scrolls through frantic messages from former teammates:
+
+“Wait, are we fired?”
+“I think I’m on a different floor now?”
+“What is 7C4?”
+No answers.
+
+He exhales and closes the chat window.
+Exhaustion, resignation, a hint of dread.
+
+He reports to the conference room he’s been assigned, though no one has told him what the assignment means.
+
+13. Meeting his new partner — Alma
+
+The door is already open.
+
+Alma Church sits at the far end of the table, posture straight, expression composed but not cold.
+
+“Mathi?” she asks, with a soft upturn that’s almost a smile.
+
+Their introduction is formal, lightly awkward, the way strangers in a too-quiet space speak.
+
+Halfway through explaining her background, her phone buzzes.
+She holds up a finger, apologetic but calm.
+
+“Sorry — correspondence chess with my sister. It’s my move.”
+
+She plays the move in three quick taps and sets the phone facedown.
+
+No elaboration. No mention of the game again.
+
+The moment is strange only because the room is so sterile it can’t quite hold something personal.
+
+14. Instant synergy
+
+They begin working through their assigned project brief.
+
+They speak in parallel—finishing each other’s analytical leaps, catching each other’s half-formed thoughts.
+
+Not identical, but rhythmically compatible.
+
+When they step out for lunch, they order the same thing without discussing it:
+
+“Chicken rice bowl. Extra ginger,” they both say.
+
+They stare at each other, surprised, amused, faintly suspicious.
+
+Something about the connection feels too easy, too aligned.
+A coincidence that sits slightly uncomfortably in the gut.
+
+But it works.
+
+15. Strange revelations at work
+
+Back at their desks, odd comments float by:
+
+“Be careful what you expense.”
+“Last quarter someone got moved for ordering the wrong sandwich.”
+“Lunch data matters more than performance now.”
+
+Someone jokes:
+
+“Watch your receipts. They know everything.”
+
+But no one laughs.
+
+In the break room, a chart is taped above the espresso machine showing “Culinary Clustering Patterns” with color-coded dots representing people.
+
+A coworker whispers as Mathi and Alma pass:
+
+“They got paired off menu.”
+
+The phrase sounds bureaucratic and superstitious at the same time.
+
+16. Rising tension
+
+The pairings around them get visibly worse:
+
+Graphic designers placed with accountants.
+Introverts forced into sales teams.
+People crying in stairwells.
+A man packing his things after a single bad lunch order mismatch.
+
+The algorithm issues new pairings daily — reshuffling, breaking, recombining.
+
+It feels like the building itself is being re-sorted by a blind, insistent hand.
+
+Through it all, Mathi and Alma remain strangely stable.
+
+They realize:
+
+Their connection isn’t something the company engineered.
+It’s the one thing the system accidentally got right — or failed to ruin.
+
+And that makes their partnership feel fragile, precious, and quietly defiant.
