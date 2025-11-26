@@ -392,3 +392,113 @@ Their connection isn’t something the company engineered.
 It’s the one thing the system accidentally got right — or failed to ruin.
 
 And that makes their partnership feel fragile, precious, and quietly defiant.
+
+Part IV — Resolution / Harmony (Draft of Beats 17–21)
+17. Back at the diner — the climate project
+
+By late afternoon the diner had settled into its soft-hour hush, that lull between the late lunch crowd and the early dinner regulars. The light through the windows had turned syrupy, warm enough to gild the salt shakers. Mathi and Alma sat at a two-top near the back, laptops open, empty pie plates nudged politely aside.
+
+Their screens glowed with maps—little dots marking community gardens, nurseries, city lots with patchy soil. A prototype app sketched in colored blocks connected volunteers to places that needed trees, or places that needed the right trees, the kind that knew how to grow in stubborn microclimates.
+
+It was modest, local, quietly hopeful. A kind of antidote.
+
+Frankie refreshed their coffees without asking, pausing just long enough to glance at a seedling photo on Alma’s screen.
+
+“You two planting a forest back there?” she asked.
+
+“Trying,” Mathi said.
+
+“Start small,” Frankie replied. “Everything worth keeping does.”
+
+The receipt printer sputtered once—not for them, but for a couple near the front—and spat out a suggestion about someone who “always brings extra mulch.” The whole diner hummed with its usual attentive warmth, the appliances breathing in steady rhythm. Mathi felt, for the first time in months, that nothing required decoding. No algorithmial riddles. Just a place noticing things in the gentlest possible way.
+
+He and Alma kept typing, companionably quiet, their shoulders almost but not quite touching.
+
+18. The corporation’s collapse
+
+“So,” Alma said, eyes still on her screen, “did you see the memo about the old company?”
+
+Mathi groaned. “Which one? The apology? The re-apology? The clarification of the apology?”
+
+“No, the final one,” she said, with the faintest smile.
+
+He leaned back. “I’m almost afraid to ask.”
+
+She turned her laptop slightly so he could see. A headline. A statement from the board. A phrase that had already become a meme: Catastrophic Synergy Miscalculations.
+
+“It was the receipts,” Mathi said, rubbing his eyes. “Of course it was the receipts.”
+
+Corporate had tried to reverse-engineer human compatibility by analyzing every reimbursed lunch order—ingredients, spice tolerance, beverage carbonation, dessert frequency. Whole teams reorganized because one person liked capers.
+
+It had all collapsed under the weight of its own misguided certainty, like a souffle made of spreadsheets.
+
+Alma laughed softly. “Turns out liking the same sandwich doesn’t mean you can build a product together.”
+
+“Or that you should,” Mathi said.
+
+They shared a look. Not triumphant. Just tired, relieved, faintly amused that a multinational corporation had fallen apart trying to imitate the effortless intuition of a small-town diner with a thinking printer.
+
+19. Frankie and Augusta’s insight
+
+Augusta emerged from the back carrying a tray of clean glasses, her sleeves rolled up, her hair pinned back with the same pencil she’d been using since scanning Johnny’s old receipts. She stopped when she saw the two of them working.
+
+“You know,” she said, nudging a glass into its place on the counter, “people keep using the matchmaker for things that aren’t dating. Collaboration, mostly.”
+
+Frankie snorted. “I’ve been saying that for months.”
+
+“No you haven’t,” Augusta said.
+
+“I said it with my eyes.”
+
+Augusta ignored her. “There was a pair yesterday—film students. Got matched because one kept ordering the same brand of ginger ale, apparently. Now they’re storyboarding something about a haunted silo.”
+
+“It’s amazing what people will do when you nudge them gently,” Frankie added.
+
+The printer gave a single patient whirr as if in agreement.
+
+Mathi looked around the diner—the quiet bustle, the odd synchronicity, the sense of patterns forming without anyone forcing them. “It works better,” he said, “because you don’t try to make it do anything.”
+
+“Exactly,” Augusta said. “We just watch. Johnny did too, even if he didn’t know he was doing it.”
+
+Frankie’s expression softened the way it always did when Johnny’s name hovered in the air—not grief, not nostalgia, something calmer, like remembering a kindness whose shape had stayed intact.
+
+20. The Diner Network Idea
+
+On the counter lay a sketchpad filled with Frankie’s neat, practical handwriting. Not a manifesto—just drawings. Little floor plans. Possible names circled and crossed out. A note in the margin: more windows = more light = more truth? maybe??
+
+Mathi nodded toward it. “Is that what I think it is?”
+
+Frankie shrugged. “People keep asking if we’ll open another place—somewhere closer to the highway, or in the next town over. I’m not planning a franchise.”
+
+“She’s planning a network,” Augusta said with the teasing pride of someone who’d been waiting to reveal a secret.
+
+“It’s not a network,” Frankie insisted.
+
+“It’s a network,” Augusta repeated, gentler now.
+
+Frankie sighed. “Fine. Maybe. A few little places. Only if they can stay… this.” She waved her hand lightly, as if indicating the air itself: the warmth, the attention, the none-of-this-for-profit energy.
+
+“Places where people can come together,” she said. “Not because they’re assigned or optimized. Just because someone—or something—noticed they might get along.”
+
+Mathi felt a small, steady warmth in his chest. Alma did too; he could tell from the way she folded her notebook shut like settling a thought into place.
+
+21. Closing gesture
+
+When they finally ordered dinner—two lentil soups, a shared salad—the receipt printer clicked awake. Frankie tore off the slip and set it down without ceremony as she passed.
+
+Mathi picked it up. The totals were there, tax and tip neatly calculated. But beneath them, in the smallest print the machine seemed capable of producing, was an extra line:
+
+Good team.
+
+No names.
+No instructions.
+Nothing to chase or decipher.
+
+Just a quiet affirmation, as simple and self-evident as sunlight warming the chrome trim of the diner.
+
+Mathi showed it to Alma. She smiled—but the soft, private kind of smile, the sort that didn’t need to be acknowledged out loud.
+
+They went back to their laptops. The diner hummed its small, steady breath. Outside, the world kept moving, but inside, the magic remained just what it had always been:
+
+Not a force directing anyone.
+Just a witness, nodding gently at what was already true.
