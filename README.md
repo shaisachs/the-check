@@ -103,7 +103,7 @@ Outside, the highway roared indifferently. Here, something else was happening. S
 
 He stepped into the sunlight, receipt tucked securely in his wallet, the line about **LENORA — Wednesdays** repeating in the back of his mind like a tune he hadn’t meant to memorize.
 
-# 2.
+## 2.
 
 It was some time ago that the diner closed for an afternoon -  an event rare enough that locals might have taken pictures if they’d passed by. But they knew better than that. The handwritten sign on the door, *BE BACK TOMORROW — PROBABLY*, fluttered whenever a car whooshed past. The windows reflected a pale winter sun, giving the whole place the appearance of napping.
 
@@ -243,7 +243,7 @@ The printer chugged along unbothered, offering its suggestions without fanfare. 
 
 It was enough that people kept finding each other.
 
-# 3.
+## 3.
 
 The office building is an ecosystem with the life scrubbed out of it. Everything gleams. Everything reflects. There are no corners, only strategic curves designed by someone who wrote a thesis on "workspace flow" but had never worked a restless day in their life.
 
@@ -440,7 +440,7 @@ They don’t say it aloud. They barely allude to it. But each knows the other is
 
 Their partnership feels like something the system didn’t intend. Or didn’t quite manage to break.
 
-# 4.
+## 4.
 
 The diner was in one of its long, honey-colored hours, the kind that seemed to stretch time rather than pass through it. Sunlight slanted in at an angle that made every chrome surface glow. The air held that particular late-afternoon softness - like the inside of a seashell - where sound pooled but didn’t echo.
 
