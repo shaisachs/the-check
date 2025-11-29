@@ -48,10 +48,9 @@ Frankie snorted, a tiny, private sound. “No. It’s Augusta’s project.”
 
 “My cousin.” A beat. “Visiting for a bit. Very thorough.”
 
-// todo: fix this sentence
-Her voice had the steady, unbothered warmth of someone who ran a diner well and saw no reason to add embellishment. She looked tired in the way people look tired when they are very good at their jobs and no longer need to prove it.
+The man looked up at Frankie, as though hopefully expecting more. But she gave hima funny sort of half-frown, as though tasting a creatively-spiced experiment in pasta sauce.
 
-“People say it works,” she added, as though reporting on the weather.
+“People say it works,” she added.
 
 “So I’m being set up?”
 
