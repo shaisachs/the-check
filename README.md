@@ -135,10 +135,9 @@ The room was a chaos of cardboard: towers that leaned precariously, narrow passa
 
 Augusta crouched. “Let’s see. Receipts A-C, 1998–2002.” She checked another. “Pie Orders, 1998.”
 
-// todo: remove mention of johnny
-She scanned the wall of boxes. “Johnny catalogued... everything?”
+She scanned the wall of boxes. “Do these boxes contain... everything?”
 
-Frankie rubbed her face. “He liked patterns. Or maybe he liked the idea of them.”
+Frankie sat on the floor in response. Cross-legged.
 
 Augusta lifted the lid of a box, releasing a dusty breath that smelled faintly of old paper and cinnamon. Inside were bundles of receipts tied with red-and-white baker’s twine. Each bundle had annotations: little circles around menu items, arrows between orders, tiny notes like *ask about her sister*, *same order every Thursday*, *avoid seating them near table 2 - acoustic issues?*.
 
