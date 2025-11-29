@@ -238,200 +238,64 @@ It was enough that people kept finding each other.
 
 ## 3.
 
-The office building is an ecosystem with the life scrubbed out of it. Everything gleams. Everything reflects. There are no corners, only strategic curves designed by someone who wrote a thesis on "workspace flow" but had never worked a restless day in their life.
+By late morning the office had developed the familiar shimmer of another high-reassignment day. Mathi noticed it first in the project dashboard: three reshuffles before 10 a.m., each accompanied by the same apologetic notification — We’re optimizing for flow… thank you for your patience! — which only made it worse. Optimizing for flow never felt like flow.
 
-Employees drift through the space in choreography that would appear synchronized if it didn’t radiate exhaustion. Their movements are oddly timed, like people following instructions remembered incorrectly from a dream.
+At 10:47 the dashboard blinked, refreshed a fourth time, and unassigned her from a task she’d begun precisely seven minutes earlier. She stared at the blank space where the task had been. Her cursor hovered in a way that made her feel like she might be reassigned if she didn’t get up. So she did.
 
-Standing desks have repositioned themselves overnight—as if they were part of an ongoing architectural experiment. Tape outlines on the carpet reveal where furniture used to live, like chalk outlines for inanimate objects.
+Two floors down, Alma closed out of a meeting-before-the-meeting that had somehow reappeared on her schedule after she’d canceled it. The icon pulsed faintly, insisting. The moment she ended the call for the second time that morning, the same meeting—same participants, same agenda—repopulated for the following week. She stared at it, sighed audibly, and pushed her chair back. Her body rose before her brain did. Lunch, she thought. Now.
 
-Monitors flicker with dashboards whose metrics are impossible to decipher: bars sliding without labels, circles orbiting one another like indecisive planets, numbers refreshing too fast to be read.
+They didn’t coordinate their exit, but their badges logged out within thirty seconds of each other. The turnstile chirped twice, halfheartedly.
 
-Managers walk in tight clusters, whispering sentences that sound like instructions but feel like rumors. "All teams should anticipate lateral integration." "No, I heard vertical integration." "Is 9F even a floor?"
+Outside, the sun was unreasonably bright for a weekday, which felt like another misalignment. The small park across from the office — a strip of lawn and seven city-approved trees — shimmered with early-afternoon warmth. It had always been a refuge for employees looking for something not lit by LEDs. Mathi crossed the street toward it with the air of someone fleeing a fire that wasn’t technically a fire. Alma walked with the same urgency from the opposite direction.
 
-Overhead, the announcement comes again:
+They arrived at the same tree without noticing the coincidence. It was the one tree everyone preferred: the only one whose shade was broad enough to sit under without choosing between sunburn and damp grass. Mathi sat first, unwrapping her lunch. Alma was still scanning the small slope of the park when she realized someone else had claimed the spot. For a moment she considered choosing another tree, but the others were taken by a group from accounting.
 
-**“Weekly re-org complete. Please check your pairing assignments.”**
+So she approached the occupied tree with a polite, uncertain wave.
+“Mind if I—?”
 
-It loops once.
+Mathi looked up, startled, then relieved. “Please,” she said. “I was starting to feel weird eating alone today.”
 
-Then glitches.
+Alma smiled, but her eyes carried the same feeling. She lowered herself to the grass, set her lunch beside her, and only after a long breath did they both realize they had the same compostable clamshell box.
 
-**“Please check your pairing assign—assign—assign—”**
+Mathi blinked. “Huh. You get the eggplant too?”
 
-The last syllable stutters like the building is clearing its throat.
+“Yeah,” Alma said. “I didn’t even want eggplant. I just… ordered it.”
 
-No one reacts. Not anymore.
+They opened their containers at the same moment. Identical. Even the pickled onions were arranged in the same neat crescent along the edge. Alma fished around for her receipt. Mathi did the same. When the two slips of paper were laid side by side, they shared the exact same timestamp — down to the second.
 
-A woman strides by holding a stack of folders. "I’m on Pivot Team Four now. I was on Pivot Team Sixteen this morning." She says it with the flat resignation of someone reporting the weather.
+“That’s…” Mathi began.
 
-A man whispers, "My pairing is a QR code. I don’t know if it’s a person or a helpdesk bot." No one responds.
+“A coincidence,” Alma said quickly, but her tone was too firm. “A weird one. That’s all.”
 
-The air tastes faintly metallic. The vents hum too loudly. The lighting seems to flicker at the edges of vision.
+Mathi nodded, though she didn’t believe it. The gentle breeze felt scripted. The birds sounded overdubbed. For a few minutes they ate in silence, both pretending the strangeness wasn’t folding itself gently around them.
 
-***
+Eventually Alma said, “Did your dashboard reshuffle today?”
 
-The all-hands auditorium is too big, too bright, too cold. The chairs all look the same: pale, rigid, designed for aesthetics rather than comfort. Every time someone shifts, the plastic creaks with an accusatory whine.
+“Four times before eleven.”
 
-A cheerful executive in a blazer the color of bullet points strides onto the stage.
+“Three for me. It feels like someone’s shuffling cards too fast.”
 
-“Good afternoon, team!” she announces, with the brittle pep of someone who has slept only four hours but refuses to acknowledge it.
+“Or too confidently.”
 
-Behind her, the screen displays the company’s new initiative: **Synergetic Alignment Protocol.** The title is surrounded by graphics that pulse like a biometric monitor.
+“That too.”
 
-She clicks to the next slide. Arrows appear, connecting employee ID numbers like constellations. Employee clusters form and dissolve in real time, flashing from color to color. A heat map labeled **Compatibility Surfaces** spreads across the screen in ambiguous gradients.
+A drone buzzed overhead — the small kind used for individual lunch deliveries. They usually passed through the park on their way to the company tower, but this one slowed as it approached the tree. It hovered for a full, evaluative second above their heads, then drifted toward a man on a bench a few yards away. The bag released cleanly into his hands. The drone hesitated once more before zipping off.
 
-“We’re thrilled to deploy our cutting-edge behavioral adjacency metrics,” she says.
+Mathi watched it leave. “Maybe we’re being reassigned as friends.”
 
-Someone sneezes. The sound echoes.
+“I’m at capacity,” Alma said, deadpan.
 
-“These insights allow us to dynamically reassign teams for optimal productivity. Trust the process!”
+Mathi snorted in laughter. It wasn’t a big laugh — more the kind that spilled out when tension had nowhere else to go. Alma pressed her lips together to hide her own smile.
 
-Her smile is too wide.
+They ate the rest of their identical lunches under the shade of the tree. The breeze settled. The shimmer of the morning drifted, slightly, back into alignment. But not fully. Not enough for either of them to call the moment normal.
 
-***
+When they finally stood to return to work, their receipts fluttered in the grass for a moment before being pinned by the same sudden gust of wind — the timing so eerily aligned that they both froze, watching the slips of paper lie there side by side, twins again.
 
-Mathi reaches his desk to discover it has been rearranged. Third time this month.
+Alma exhaled. “Okay,” she said. “That one wasn’t nothing.”
 
-Half his monitors are missing. The other half face a different direction. His keyboard is balanced on its edge like someone tried to make it stand at attention. His chair is gone.
+Mathi nodded. “No. It wasn’t.”
 
-In its place is a generic seat with no lumbar support, no cushion, and adjustable levers in all the wrong places.
-
-On his screen, a notification pulses:
-
-**YOUR TEAM HAS BEEN ARCHIVED.**
-
-Below it, another message:
-
-**PAIR-7C4-ALN.Z**
-
-The code pulses with a slow rhythm - two seconds on, one second off.
-
-His chat explodes with messages:
-
-“WHAT DO YOU MEAN OUR TEAM IS ARCHIVED?”
-“Hello? Is anyone still here??”
-“Where did the chairs go”
-“Is anyone on Floor N?”
-“Who is .Z ??”
-“I think 7C4 is accounting???”
-
-Mathi scrolls. Scrolls. Stops.
-
-Closes the chat.
-
-His stomach feels like it’s folding in on itself - not panic, but something slower, more resigned. Erosion.
-
-He checks his assignment. It simply says:
-
-**Report to Conference Room 11B.**
-
-He checks the map. Conference Room 11B is not on the map.
-
-He looks at the hallway directory. It lists Conference Rooms 11A, 11C, 11D, 11E.
-
-No 11B.
-
-He wanders past departments he didn’t know existed - "Future Client Possibilities" - "Vertical Strategy Optimizations" - "Meta-Client Alignment." He wonders if these floors existed yesterday.
-
-Eventually he finds it: a door between two unused printers, unmarked except for a small plaque that reads "11B" in a font that looks apologetic.
-
-The room is too quiet.
-
-The lighting hums faintly with that particular frequency that makes teeth ache.
-
-At the far end of a long, immaculate table sits Alma Church.
-
-"Mathi?" she asks.
-
-Her voice is steady - surprisingly so, given the swirling chaos beyond the door.
-
-"Yeah," he says. "You’re Alma."
-
-Her nod is polite but warm. A small thing. But noticeable.
-
-They sit across from one another with delicately, like people trying to learn a dance they’ve never seen before.
-
-Their introductions are formal - education, experience, recent projects. 
-
-// todo: feels a little blunt
-But as they talk, something small but unmistakable settles between them: a rhythm.
-
-Halfway through describing her last role, Alma’s phone buzzes. She offers an apologetic gesture.
-
-"Chess game with my sister. It’s my move."
-
-She taps three times. Thinks. Taps a little more.
-
-Phone facedown.
-
-No elaboration. Just a conspiratorial grin.
-
-Soon they're reviewing the project brief. It's uninspired, but it's something to do.
-
-They don’t mirror each other. They complement each other.
-
-// todo: hate this bit
-Where Mathi sketches out a diagram, Alma suggests the connective tissue. Where Alma proposes a sequence, Mathi refines the waypoints. Where one hesitates, the other fills the quiet—not dominating, not eclipsing, simply offering.
-
-It feels natural, easy. In a way that startles them both.
-
-By the time they step out for lunch, they’ve developed a shorthand - a murmured agreement, a nod that carries meaning.
-
-They order at the same moment:
-
-// todo: right idea but need something a little more interesting
-"Chicken rice bowl. Extra ginger."
-
-Their heads snap toward each other.
-
-A blink, then shared laughter.
-
-***
-
-As they return to their desks, the building feels more distorted.
-
-Posters have appeared on the walls:
-
-**COLLABORATE WITH YOUR ADJACENT.**
-**PAIRING IS CARING.**
-**CONSISTENT CHOICES CREATE CONSISTENT TEAMS.**
-
-Someone has drawn a frowning face on that last one.
-
-// todo: we could maybe lose this section, it's actually not necessary
-In the break room, a chart is taped above the espresso machine. It’s titled **Culinary Clustering Patterns** and looks like a cross between a subway map and a weather forecast.
-
-Colored dots labeled with initials drift toward categories like:
-
-* "Lunch Loyalists"
-* "Snack-Based Optimizers"
-* "12:15 Outliers"
-
-Someone whispers as Mathi and Alma walk past:
-
-"They got paired off-menu."
-
-The tone is half-bureaucratic, half-mythical.
-
-Another person mutters, "Don’t order tuna. Just... don’t."
-
-Mathi and Alma look at each other. They don’t comment. They don’t need to.
-
-***
-
-The building becomes stranger by the hour.
-
-Pairings reshuffle constantly. Desks migrate. People wander hallways with vacant eyes, clutching printouts of new assignments like talismans.
-
-Two designers are reassigned to write legal policy drafts. A lawyer is told to evaluate color palettes. An engineer stares at her screen and mutters, "I think my partner is a macro." 
-
-Through it all, Mathi and Alma stay paired.
-
-Their stability feels fragile, like a bubble that could burst if inspected too closely. But it lasts. 
-
-They don’t say it aloud. They barely allude to it. But each knows the other is the only part of this building that makes any kind of sense.
-
-Their partnership feels like something the system didn’t intend. Or didn’t quite manage to break.
+They left the park together, not walking in step, but close enough to notice when they briefly were.
 
 ## 4.
 
