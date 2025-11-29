@@ -60,8 +60,7 @@ No inclination to explain further. She was already pivoting to greet a regular w
 
 The man looked again at the slip of paper lying innocently beside his saucer. As if it had printed itself merely to pass the time.
 
-// todo: fix
-He noticed it only once he started looking for it. The little suggestions, tucked at the bottoms of other people’s checks like extra punctuation marks.
+He peered carefully at the other diners. Perhaps there was something they knew that he didn't.
 
 At the counter, the teenager with the milkshake picked up her receipt, read it, and grinned.
 
@@ -69,11 +68,7 @@ At the counter, the teenager with the milkshake picked up her receipt, read it, 
 
 She snapped a picture and sent it to someone with the speed of long practice.
 
-Near the window, one of the construction workers read his own line -
-
-“Jogging partner.”
-
-He groaned theatrically. “I don’t jog,” he protested to no one in particular. The other worker clapped him on the back and said, “That’s why it’s a suggestion.”
+Near the window, one of the construction workers read his own line: “Jogging partner.” He groaned theatrically. “I don’t jog,” he protested to no one in particular. The other worker clapped him on the back and said, “That’s why it’s a suggestion.”
 
 At the far end, the laptop woman slid her bill under her palm:
 
