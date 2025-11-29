@@ -238,64 +238,192 @@ It was enough that people kept finding each other.
 
 ## 3.
 
-By late morning the office had developed the familiar shimmer of another high-reassignment day. Mathi noticed it first in the project dashboard: three reshuffles before 10 a.m., each accompanied by the same apologetic notification — We’re optimizing for flow… thank you for your patience! — which only made it worse. Optimizing for flow never felt like flow.
+The morning began normally enough for a high-reassignment day—meaning no one commented on it out loud, but everyone behaved as if the floor might tilt at any moment. In the office where Mathi worked, this meant a subtle tightness around people’s eyes and a reluctance to commit to any task for more than ten minutes, in case the system decided to pull it away from them. No one liked to get too attached.
 
-At 10:47 the dashboard blinked, refreshed a fourth time, and unassigned her from a task she’d begun precisely seven minutes earlier. She stared at the blank space where the task had been. Her cursor hovered in a way that made her feel like she might be reassigned if she didn’t get up. So she did.
+Mathi was in the middle of writing a harmless little data-cleaning script he had already written three times that month—sometimes for the same project, sometimes for indistinguishable ones—when his project dashboard blinked. The browser window blurred for half a second, sharpened again, and the script he was working on vanished from his queue. His cursor now floated over an empty square, blinking as though it were evaluating him.
 
-Two floors down, Alma closed out of a meeting-before-the-meeting that had somehow reappeared on her schedule after she’d canceled it. The icon pulsed faintly, insisting. The moment she ended the call for the second time that morning, the same meeting—same participants, same agenda—repopulated for the following week. She stared at it, sighed audibly, and pushed her chair back. Her body rose before her brain did. Lunch, she thought. Now.
+He glanced up. The rest of the office looked as if it had collectively exhaled and forgotten how to inhale again. Across the aisle, a woman with a tight bun stared at her own screen in a perfect mirror of his expression. Not panic, not anger—just a quiet, resigned bewilderment, the standard emotion of a day when the system’s confidence outran its coherence.
 
-They didn’t coordinate their exit, but their badges logged out within thirty seconds of each other. The turnstile chirped twice, halfheartedly.
+Another notification appeared:
 
-Outside, the sun was unreasonably bright for a weekday, which felt like another misalignment. The small park across from the office — a strip of lawn and seven city-approved trees — shimmered with early-afternoon warmth. It had always been a refuge for employees looking for something not lit by LEDs. Mathi crossed the street toward it with the air of someone fleeing a fire that wasn’t technically a fire. Alma walked with the same urgency from the opposite direction.
+Your workload is being rebalanced for optimal flow. Thank you for your patience.
 
-They arrived at the same tree without noticing the coincidence. It was the one tree everyone preferred: the only one whose shade was broad enough to sit under without choosing between sunburn and damp grass. Mathi sat first, unwrapping her lunch. Alma was still scanning the small slope of the park when she realized someone else had claimed the spot. For a moment she considered choosing another tree, but the others were taken by a group from accounting.
+Mathi rolled his eyes at the phrase optimal flow. There was nothing flowing about it; it felt more like being shuffled around in a very polite washing machine. He clicked the acknowledgment button anyway.
 
-So she approached the occupied tree with a polite, uncertain wave.
-“Mind if I—?”
+The slot where the script used to be remained blank.
 
-Mathi looked up, startled, then relieved. “Please,” she said. “I was starting to feel weird eating alone today.”
+Then, inexplicably, another blank slot beside it also blinked out, leaving two white squares where tasks had once lived. His screen displayed a cheerful message he found especially irritating because of how little it acknowledged what it had done: “You’re all caught up!”
 
-Alma smiled, but her eyes carried the same feeling. She lowered herself to the grass, set her lunch beside her, and only after a long breath did they both realize they had the same compostable clamshell box.
+“Sure,” he muttered. “If we define ‘caught up’ as ‘you took all my things away and didn’t tell me why.’”
 
-Mathi blinked. “Huh. You get the eggplant too?”
+He stood. Not angrily, not even abruptly—just decisively, in the way someone stands when they sense that any further attempt to behave normally will break something inside them. A walk would be best. Maybe lunch. Maybe early lunch. Maybe extremely early lunch.
 
-“Yeah,” Alma said. “I didn’t even want eggplant. I just… ordered it.”
+He glanced around. He wasn’t the only one standing. Three other people in his row had risen within the same ten-second window, seeming to drift toward the exit as though nudged by the same gentle algorithmic breeze.
 
-They opened their containers at the same moment. Identical. Even the pickled onions were arranged in the same neat crescent along the edge. Alma fished around for her receipt. Mathi did the same. When the two slips of paper were laid side by side, they shared the exact same timestamp — down to the second.
+Mathi didn’t want to walk with anyone. He veered toward the side stairwell, took it two floors down, and pushed through the glass doors into the street. The sunlight hit him in a surprising burst. It was warmer than he expected for the season, or perhaps the building’s climate control had numbed his senses again.
 
-“That’s…” Mathi began.
+Across the street, the little park beckoned. It wasn’t much—a sloping patch of grass, seven slim trees planted on a precisely spaced grid the city insisted improved “urban canopy equity,” and a small paved path that didn’t quite connect to anything meaningful. But it provided shade, and dirt, and a place to sit where the ground wasn’t carpeted.
 
-“A coincidence,” Alma said quickly, but her tone was too firm. “A weird one. That’s all.”
+That was enough.
 
-Mathi nodded, though she didn’t believe it. The gentle breeze felt scripted. The birds sounded overdubbed. For a few minutes they ate in silence, both pretending the strangeness wasn’t folding itself gently around them.
+—
 
-Eventually Alma said, “Did your dashboard reshuffle today?”
+Two blocks away, Alma stared at a calendar notification that contradicted the one she had closed seconds earlier.
+
+Meeting: Pre-meeting agenda alignment (rescheduled).
+
+The icon pulsed faintly, which bothered her because she didn’t remember icons pulsing before today.
+
+She tapped to open it. The participant list was identical to the meeting she had canceled this morning—the one she had canceled twice, to be precise, because it kept snapping back into existence like an overeager child insisting she admire the same drawing again and again.
+
+“No,” she said to her screen, pressing her fingertip to the cancel button with unnecessary force. “Go away.”
+
+The meeting dissolved. She watched the space it left in her calendar, as if making sure it stayed erased this time.
+
+It didn’t. A new event—identical in every way—slid neatly into the same slot in the following week.
+
+Alma closed her eyes. No deep breaths, no self-talk—just the simple act of closing her eyes to stop the nonsense from reaching her brain. When she opened them again, the meeting was still there, smugly rectangular.
+
+She reached for her bag.
+
+Lunch. Lunch now. Fresh air now. A tree now.
+
+Her feet carried her out of the building faster than she expected. The elevator was too slow, so she took the stairs, one hand grazing the rail, partly for balance and partly for something steady to hold in a morning that refused to be steady.
+
+When she stepped outside, she was startled to see how bright the day had become. The city looked almost too crisp—edges sharp, colors oversaturated, like the world had been lightly retuned.
+
+She crossed toward the park.
+
+—
+
+The tree—the best tree—was waiting.
+
+Everyone in the office buildings nearby knew which one it was. Not the northernmost tree, whose shade was good but whose roots created uncomfortable ridges. Not the center tree, whose branches were too sparse. Not the one plagued by the pigeon with the unsettlingly human stare.
+
+The good tree. Wide shade, soft grass, the only one that didn’t tilt.
+
+Mathi reached it first, an early lunch victor, and dropped into the shade with something like relief. He opened his lunch bag—a reusable cloth pouch he insisted on using because the universe had already given him enough disposable packaging for three lifetimes—and withdrew the compostable clamshell container. He had no memory of choosing eggplant today, but eggplant wasn’t the worst thing that could happen to him this morning, so he accepted it.
+
+A minute later, someone approached the tree.
+
+Alma slowed when she saw it was taken. She hesitated, scanning the slope for another open spot, but everywhere she looked felt unwelcoming. Too sunny, too crowded, or with grass damp enough to cling to clothing. This tree was the right place. She stepped closer.
+
+“Sorry—mind if I join?” she asked.
+
+Mathi looked up. For a split second he wondered if the tree had assigned him a friend. The thought was ridiculous, but so was the morning.
+
+“No, of course,” he said. “Plenty of space.”
+
+Alma sat, carefully, as if respecting the ground. She placed her identical clamshell container on the grass between them. It took them a moment to register the symmetry.
+
+“Oh,” Mathi said.
+
+“Huh,” Alma echoed.
+
+They opened their boxes simultaneously. Identical lunches, right down to the garnish. Mathi glanced at her in mild disbelief.
+
+“You got eggplant too?”
+
+“I didn’t mean to order eggplant,” Alma said. “I just… clicked.”
+
+“Same.”
+
+They compared receipts. Alma pulled hers from her pocket; Mathi’s had been folded into his pouch. The timestamp glowed with absurd precision.
+
+12:06:14 PM
+12:06:14 PM
+
+Same second. Same restaurant. Same order ID prefix.
+
+Alma stared at the numbers, then exhaled sharply. “Okay but this doesn’t have to mean anything.”
+
+Mathi nodded. “No, totally. Just a wild coincidence.”
+
+They both knew it wasn’t just that. But naming it would make it real, and neither wanted reality to get ideas.
+
+For a while they ate quietly. The city hummed around them in its usual uneven rhythm—traffic, snippets of conversation drifting from benches, a dog somewhere out of sight barking with a steady determination.
+
+Then Alma said, “Did your work reshuffle today?”
 
 “Four times before eleven.”
 
-“Three for me. It feels like someone’s shuffling cards too fast.”
+“Three for me.”
 
-“Or too confidently.”
+Mathi raised an eyebrow. “Three? Lucky.”
 
-“That too.”
+“Don’t congratulate me too quickly. My calendar tried to unionize.”
 
-A drone buzzed overhead — the small kind used for individual lunch deliveries. They usually passed through the park on their way to the company tower, but this one slowed as it approached the tree. It hovered for a full, evaluative second above their heads, then drifted toward a man on a bench a few yards away. The bag released cleanly into his hands. The drone hesitated once more before zipping off.
+Mathi laughed—an unsteady, unguarded sound. Alma smiled despite herself.
 
-Mathi watched it leave. “Maybe we’re being reassigned as friends.”
+They talked a little about their mornings, lightly comparing notes without digging too deeply. They didn’t know each other, not really. But the shade of the tree created a small permission, like an unspoken truce.
 
-“I’m at capacity,” Alma said, deadpan.
+At one point a drone delivery approached overhead. The tiny machine buzzed in a low, insect-like whir that made Mathi tense. It hovered near their tree, then directly above them, pausing with a faint mechanical indecision.
 
-Mathi snorted in laughter. It wasn’t a big laugh — more the kind that spilled out when tension had nowhere else to go. Alma pressed her lips together to hide her own smile.
+Alma looked up warily. “Is it supposed to do that?”
 
-They ate the rest of their identical lunches under the shade of the tree. The breeze settled. The shimmer of the morning drifted, slightly, back into alignment. But not fully. Not enough for either of them to call the moment normal.
+“No,” Mathi said. “Unless we accidentally ordered a second lunch.”
 
-When they finally stood to return to work, their receipts fluttered in the grass for a moment before being pinned by the same sudden gust of wind — the timing so eerily aligned that they both froze, watching the slips of paper lie there side by side, twins again.
+“No eggplant is worth this surveillance.”
 
-Alma exhaled. “Okay,” she said. “That one wasn’t nothing.”
+The drone drifted a few feet away, as if reconsidering its priorities, then descended to deliver a meal to a man on a bench. The moment the bag left its claws, it zipped upward and vanished behind a building.
 
-Mathi nodded. “No. It wasn’t.”
+“That was weird,” Mathi said.
 
-They left the park together, not walking in step, but close enough to notice when they briefly were.
+“Everything today is weird.”
+
+Mathi picked at the pickled onions, nudging them into small piles. “Maybe we’re being reassigned as friends.”
+
+Alma gave him a look—flat, amused, exhausted. “Not today, please. I’m at capacity.”
+
+Mathi grinned. “Fair.”
+
+But something warm threaded through the moment, despite Alma’s deadpan. A shared pulse of humor, or recognition, or simply an anchor in a morning that felt like it couldn’t hold its own shape.
+
+They fell into easier conversation after that. Mathi learned Alma had transferred to the department two months ago. Alma learned Mathi had been with the company long enough to remember when the system reshuffled tasks only weekly and people had time to finish things.
+
+They talked about the tree—how much they both liked it, how it was strange that a single tree could feel so dependable in a world built of shifting schedules and autorebalanced workflows. Alma mentioned she often brought a book to sit here, though lately she rarely got the chance. Mathi admitted he sometimes ate lunch here just to feel the ground under him.
+
+“Everything inside feels too… smooth,” he said, searching for the right word. “Like it was designed for people who don’t sweat.”
+
+“I know what you mean,” Alma said. “The floor is always too clean. The air is always the exact same temperature. Even the chairs don’t squeak.”
+
+Mathi nodded. “This tree squeaks.”
+
+Alma laughed so suddenly she startled herself. “It does! The branches creak when it’s windy.”
+
+“Exactly. That’s why it’s reliable.”
+
+They fell quiet again, not uncomfortably. The grass was cool where it hadn’t been warmed by the sun. The shade felt like a room with no walls, soft-edged and temporary.
+
+At some point, a breeze picked up. The receipts they’d left beside them fluttered. Alma reached to pin hers down just as Mathi reached for his—and in the same instant, the wind strengthened and lifted both receipts an inch off the ground, holding them suspended in a moment of impossible balance.
+
+They froze, watching. The papers floated together, as if tethered, then drifted downward at the exact same angle. When they landed, they hit the grass gently—side by side again, as though the wind had decided to pair them.
+
+Alma’s eyes widened. “Okay,” she said softly. “That one wasn’t nothing.”
+
+Mathi swallowed. “No. It wasn’t.”
+
+They didn’t interpret it. They didn’t try. They simply sat with it, letting the strangeness settle between them like a third presence—one neither hostile nor friendly, just persistent.
+
+Eventually they stood. The sun had shifted; the tree’s shade cast a new shape across the grass. Alma brushed her hands against her pants. Mathi tucked the receipts into his pouch out of a sudden, odd sense of responsibility—as if leaving them behind would be rude.
+
+They walked toward the office together. Not side by side, not deliberately matching each other’s pace—but their footsteps aligned now and then, falling into rhythm for a few steps before drifting apart.
+
+When they reached the lobby doors, they paused simultaneously.
+
+“Well,” Alma said, checking her watch though she didn’t need the time.
+
+“Yeah,” Mathi replied.
+
+Neither quite knew what came next.
+
+They stepped inside—not together, but not apart either—and the building greeted them with its usual neutral hum. The air felt cooler than before, or maybe they had warmed in the sun.
+
+For the rest of the day, neither of them mentioned the meeting at the tree.
+
+But each time their dashboards flashed—once for Alma, twice for Mathi—they both felt the earlier synchronicities echo faintly, like ripples on a pond that had not fully stilled.
+
+Outside, the tree shifted in the breeze, creaking softly in a way that suggested it had been paying attention.
 
 ## 4.
 
