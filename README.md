@@ -76,8 +76,7 @@ At the far end, the laptop woman slid her bill under her palm:
 
 She blinked, once, a short laugh escaping her, like a note struck by accident.
 
-// todo: fix the "or resigned.."
-Nobody seemed confused by any of it. Mildly entertained, perhaps. Or accustomed, the way one becomes accustomed to the hiccups of the everyday: the one stoplight that never times right, the one neighbor who leaves zucchini on everyone’s porch.
+Nobody seemed confused by any of it. Mildly entertained, perhaps. Or accustomed, the way one becomes accustomed to a stoplight that never times right.
 
 The suggestions were strange — too specific to be meaningless, too gentle to be intrusive. They hovered between the absurd and the oddly insightful, like the diner somehow knew more about its patrons than they knew about themselves.
 
@@ -242,7 +241,6 @@ No one in Mathi’s office said “good morning” anymore. It wasn’t that peo
 
 Today was one of those days. You could feel it in the hallways: a polite, electrically charged disorientation, the same way you feel your footing change before a subway car brakes too hard.
 
-// todo: eliminate resigned in other spots
 Mathi arrived at his desk with the calm resignation of a man who had lived through many such days. He set down his bag, opened his terminal, and began reading through a half-written onboarding document he could have sworn he’d finished yesterday. The system had reassigned him as the “documentation lead” for something called the Branch Ledger Integration Initiative, which he’d never heard of, and which bore no relation to the biodiversity project he’d been working on last week.
 
 He clicked through the project’s page. Three names appeared under “Team Members”: his own, someone named J. Patel, and someone named Weatherford (temp). Weatherford had no first name and no profile picture, which was a bad sign. Temporary assignments tended to vanish mid-sentence.
