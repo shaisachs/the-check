@@ -237,11 +237,7 @@ It was enough that people kept finding each other.
 
 ## 3.
 
-No one in Mathi’s office said “good morning” anymore. It wasn’t that people were unfriendly - just that the greeting had lost its meaning.
-
-Today was one of those days. You could feel it in the hallways: a polite, electrically charged disorientation, the same way you feel your footing change before a subway car brakes too hard.
-
-Mathi arrived at his desk with the calm resignation of a man who had lived through many such days. He set down his bag, opened his terminal, and began reading through a half-written onboarding document he could have sworn he’d finished yesterday. The system had reassigned him as the “documentation lead” for something called the Branch Ledger Integration Initiative, which he’d never heard of, and which bore no relation to the biodiversity project he’d been working on last week.
+Mathi arrived at his desk with the calm resignation of a man who knows exactly what the day portends. He set down his bag, opened his terminal, and began reading through a half-written onboarding document he could have sworn he’d finished yesterday. The system had reassigned him as the “documentation lead” for something called the Branch Ledger Integration Initiative, which he’d never heard of, and which bore no relation to the biodiversity project he’d been working on last week.
 
 He clicked through the project’s page. Three names appeared under “Team Members”: his own, someone named J. Patel, and someone named Weatherford (temp). Weatherford had no first name and no profile picture, which was a bad sign. Temporary assignments tended to vanish mid-sentence.
 
