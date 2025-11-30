@@ -238,43 +238,36 @@ It was enough that people kept finding each other.
 
 ## 3.
 
-No one in Mathi’s office said “good morning” anymore on high-reassignment days. It wasn’t that people were unfriendly—just that the greeting had lost its meaning. What counted as “morning” kept shifting depending on whose task queue collapsed first, or whose inbox re-sorted itself into a new topology that turned last night’s priorities into this afternoon’s errands.
+No one in Mathi’s office said “good morning” anymore. It wasn’t that people were unfriendly - just that the greeting had lost its meaning.
 
 Today was one of those days. You could feel it in the hallways: a polite, electrically charged disorientation, the same way you feel your footing change before a subway car brakes too hard.
 
+// todo: eliminate resigned in other spots
 Mathi arrived at his desk with the calm resignation of a man who had lived through many such days. He set down his bag, opened his terminal, and began reading through a half-written onboarding document he could have sworn he’d finished yesterday. The system had reassigned him as the “documentation lead” for something called the Branch Ledger Integration Initiative, which he’d never heard of, and which bore no relation to the biodiversity project he’d been working on last week.
 
-He clicked through the project’s page. Three names appeared under “Team Members”: his own, someone named J. Patel, and someone named Weatherford (temp). Weatherford had no first name and no profile picture, which was a bad sign. Temporary assignments tended to vanish mid-sentence, leaving Slack threads trailing off like half-remembered dreams.
+He clicked through the project’s page. Three names appeared under “Team Members”: his own, someone named J. Patel, and someone named Weatherford (temp). Weatherford had no first name and no profile picture, which was a bad sign. Temporary assignments tended to vanish mid-sentence.
 
-This was already strange enough. Then the names blinked, refreshed, and rearranged themselves.
+A minute later the names blinked, refreshed, and rearranged themselves.
 
-Suddenly he was part of a two-person emergency analysis team on a completely different project—Hyperlocal Routing Optimization, Pilot Region 7. A project tagged ARCHIVED. His teammate was listed as McSomething—the system truncated the rest.
+Suddenly he was part of a two-person emergency analysis team on a completely different project - Hyperlocal Routing Optimization, Pilot Region 7. A project tagged ARCHIVED. His teammate was listed as McSomething—the system truncated the rest.
 
 The absurdity wasn’t even the project. It was that the system had paired him with a delivery fleet specialist to do geo-statistical forecasting, which was neither of their fields.
 
 Someone walked behind him and muttered, “Oh, come on.”
 
-Someone else whispered, “This is like getting assigned a dance partner you’ve never met… at a party you didn’t know you were at… doing a dance that hasn’t been invented.”
-
 Mathi refreshed his dashboard. It reshuffled again. His new teammate was now a graphics designer from a different floor.
 
 He closed the tab.
 
-There was no point trying to work until the system finished its spasms. And despite the cheerful “Your optimal team is forming!” banner bouncing on his screen, it was clear the algorithm was having a confused morning.
+There was no point trying to work until the system finished its spasms. And despite the cheerful “Your optimal team is forming!” banner bouncing on his screen, it was clear the system was having a confused morning.
 
 He stood, stretched his back, and made a quiet decision to step outside.
 
-Alma was having a similar morning.
+One floor above, Alma was having a similar morning.
 
 Her reassignment had begun subtly: a single unexpected meeting invite, then a shift in her “role emphasis,” then a complete erasure of her usual task queue.
 
-Her new assignments made no sense. She had been moved into a “partnership incubation pod” with:
-
-a materials engineer,
-
-a copywriter,
-
-and a former horticultural intern she vaguely remembered seeing in the elevator once, whose profile listed his current role as “floating.”
+Her new assignments made no sense. She had been moved into a “partnership incubation pod” with: a materials engineer, a copywriter, and a former horticultural intern she vaguely remembered seeing in the elevator once. His profile listed his current role as “floating.”
 
 They were supposed to pitch something on Monday.
 
@@ -282,27 +275,23 @@ They were supposed to pitch something on Monday.
 
 No one replied.
 
-Her fingers hovered over her keyboard. She tried drafting a message clarifying that she was actually part of Civic Data Coordination, and perhaps there had been a mix-up. Before she could hit send, her entire assignment block vanished and was replaced with a meeting notification titled:
-
-Reassurance Touchpoint: Maintaining Stability During Fluid Allocation Cycles
+Her fingers hovered over her keyboard. She tried drafting a message clarifying that she was actually part of Civic Data Coordination, and perhaps there had been a mix-up. Before she could hit send, her entire assignment block vanished and was replaced with a meeting notification titled “Reassurance Touchpoint: Maintaining Stability During Fluid Allocation Cycles.”
 
 Alma stared at the title.
 
 “No,” she told her computer. “Absolutely not.”
 
-She closed the meeting. It reappeared. She deleted it again. It reappeared, cheerfully undeterred.
+She closed the meeting. It reappeared. She deleted it again. It reappeared, glibly undeterred.
 
 She took the hint.
 
-She grabbed her bag—she always kept it ready for “organizational liquidity emergencies,” a term invented by HR two reorganizations ago—and walked straight out of the building.
+She grabbed her bag - she always kept it ready for “organizational liquidity emergencies,” a term invented two reorganizations ago - and walked straight out of the building.
 
 Outside, blue sky. Clear light. A warmth that surprised her.
 
 The park two blocks away drew her like a magnet. Mostly because of the trees. One tree in particular.
 
-It wasn’t a big park, nor particularly lovely by any urban-planner standards. But Alma had found early on that she preferred it to the company courtyard with its carefully curated seating pods. The park had grass that sometimes grew unevenly, and trees that weren’t pruned to uniform silhouettes. It had birds that did not respect boundaries.
-
-And it had the seventh tree—the one slightly off-center from the path, with a canopy wide enough to subdue even the sharpest midday sun.
+It wasn’t a big park, nor particularly lovely by any urban-planner standards. But Alma had found early on that she preferred it to the company courtyard with its carefully curated seating pods. The park had grass that sometimes grew unevenly, and trees that weren’t pruned to uniform silhouettes. It had birds that did not respect boundaries. And it had the seventh tree - the one slightly off-center from the path, with a canopy wide enough to subdue even the sharpest midday sun.
 
 She crossed the street toward it.
 
@@ -312,21 +301,21 @@ He sat in the grass without ceremony. The shade wrapped around him, uneven but s
 
 He opened his lunch.
 
-He never ate the same lunch twice in a row. Not on principle, but out of curiosity. He liked to see what the world offered when he gave it room. Sometimes he chose at random. Sometimes he selected the “chef’s special,” even if the chef changed weekly. Sometimes he wandered into a new place because someone leaving it had looked satisfied.
+He never ate the same lunch twice in a row. Not on principle, but out of curiosity. Sometimes he chose at random. Sometimes he selected the “chef’s special,” even if the chef changed weekly. Sometimes he wandered into a new place because someone leaving it had looked happy.
 
 Today he had brought a salad with roasted squash and fennel from a small shop he had not visited before. The dressing was in a little lidded container, which pleased him. Control over dressing was important.
 
 He had just finished shaking it open when he noticed someone else approaching the tree.
 
-Alma hesitated for half a second—long enough for him to recognize that she, too, was deciding whether the tree could accommodate two.
+Alma hesitated for half a second, long enough for him to recognize that she, too, was deciding whether the tree could accommodate two.
 
 He gestured lightly. “There’s plenty of space.”
 
-“Oh—thanks,” she said, sitting down on the opposite side of the trunk’s central shadow. “It’s my favorite one.”
+“Oh, thanks,” she said, sitting down on the opposite side of the trunk’s central shadow. “It’s my favorite one.”
 
 “Mine too.”
 
-There was a pause. Not awkward—just the silence of two people settling into shade.
+There was a pause as the two settled into the shade.
 
 Alma set down her lunch, still closed. She took a deep breath, letting the air out slowly.
 
@@ -334,11 +323,11 @@ Alma set down her lunch, still closed. She took a deep breath, letting the air o
 
 “Chaotic,” she said. “Yourself?”
 
-He laughed under his breath. “Not chaotic so much as… scrambled. Like the system picked up the office and shook it.”
+He laughed under his breath. “Not chaotic so much as... scrambled. Like the system picked up the office and shook it.”
 
 “That’s exactly what it felt like.”
 
-She finally opened her lunch, revealing a dish that looked nothing like his: something with noodles and lime wedges, bright and aromatic. The kind of thing that smelled like possibility.
+She finally opened her lunch, revealing a dish that looked nothing like his: something with noodles and lime wedges, bright and aromatic.
 
 Mathi nodded at it. “Good choice.”
 
@@ -350,19 +339,17 @@ He smiled. “Same. I like trying something new every day. Lunch is the one thin
 
 Mathi brightened. “And you get to find out what the city tastes like.”
 
-“Yes!” She grinned. “Exactly that.”
-
-A moment of recognition passed between them, small but distinct.
+“Yes!” She grinned. “Precisely.”
 
 They ate for a bit in comfortable quiet.
 
-Around them the park existed in its usual patchy harmony—traffic muffled by distance, children laughing too loudly from somewhere near the fountain, birds competing for scraps on the path. The wind moved the leaves of the seventh tree in soft, intermittent breaths, shading first Mathi, then Alma, then both at once.
+Around them the park hummed along in its usual patchy harmony - traffic muffled by distance, children laughing too loudly from somewhere near the fountain, birds competing for scraps on the path. The wind moved the leaves of the seventh tree in soft, intermittent breaths, shading first Mathi, then Alma, then both at once.
 
 After a while, Alma wiped her mouth with a napkin and asked, “Did you get reassigned to a bunch of teams that made no sense today?”
 
 Mathi swallowed a bite of squash. “Oh yeah. I had a horticultural intern and a drone pilot in my queue for about ten minutes. We were supposed to build a predictive model for long-distance freight routes.”
 
-Alma snorted. “I got put in a pitch team with a materials engineer. The meeting title said something about ‘cross-domain ideation.’”
+Alma smirked. “I got put in a pitch team with a materials engineer. The meeting title said something about ‘cross-domain ideation.’”
 
 “Did it tell you what you were ideating?”
 
@@ -390,59 +377,37 @@ Alma nodded solemnly. “A growth phase.”
 
 They laughed together, the feeling light and real.
 
-The conversation drifted naturally then—neither probing nor superficial. The kind of talk that hovers in the space between strangers and acquaintances.
-
-Mathi mentioned how he liked patterns in data but distrusted patterns applied to people.
-
-Alma confessed she had an urge to rearrange her entire apartment every few months just to see if it changed how she thought.
+The conversation drifted naturally. Mathi waxed poetic about a kebab place he had found a week ago. Unreal garlic sauce. Alma confessed she had an urge to rearrange her entire apartment every few months just to see if it changed how she thought.
 
 Mathi said, “I get that. Variety is a kind of information.”
 
-Alma nodded. “And stability is a kind of lens.”
+Alma nodded. “And stability is a chance to think.”
 
 They sat under the shifting shade of the seventh tree, letting the breeze scatter their thoughts.
 
 At one point, two sparrows landed five feet from them and began squabbling over a stray piece of lettuce. The smaller bird won. They both watched, amused.
 
-When the sparrows flew away, Alma said, “Do you ever feel like the system… listens?”
+When the sparrows flew away, Alma said, “Do you ever feel like the system... listens?”
 
-Mathi considered. “Not listens. But maybe… observes?”
+Mathi considered. “Not listens. But maybe... observes?”
 
 “Like it’s trying to guess what we mean from the things we don’t think about twice.”
 
-“Indexical,” he said, rolling the word thoughtfully. “It looks at our habits to make predictions.”
+“And then puts us in teams that make no sense,” Mathi concluded.
 
-“And then puts us in teams that make no sense,” Alma said.
+Alma grinned. “The predictions need work.”
 
-Mathi grinned. “The predictions need work.”
-
-They ate the last of their lunches. The sun shifted. The wind picked up a bit, carrying the smell of citrus from Alma’s lime wedges.
+They ate the last of their lunches. The sun shifted. The wind picked up a bit, carrying the smell of citrus from Alma’s dish.
 
 Finally, as if by mutual understanding, they stood.
 
-The moment they stepped away from the tree, the air felt different—sharper, more constructed. They both noticed it but didn’t comment.
-
-They walked toward the office, not aligned but not misaligned either.
-
 When they reached the corner where their paths diverged, they paused at almost the same moment.
 
-“Well,” Alma said softly.
+“Well,” Alma said, the thought unfinished.
 
 “Yeah,” Mathi agreed.
 
-Neither seemed sure what the moment required.
-
-So they simply nodded to each other, a small, shared acknowledgment of something subtle but real that had happened under the seventh tree.
-
-Then they returned to their respective buildings, back into the churn.
-
-Inside, their dashboards pulsed with new assignments.
-
-Different ones.
-
-But neither felt quite as alone in the reassignment chaos as they had in the morning.
-
-Outside, the seventh tree leaned slightly in the afternoon breeze, offering the same imperfect shade to anyone else seeking it.
+They returned to their respective floors. Inside, their dashboards pulsed with new assignments.
 
 ## 4.
 
