@@ -440,9 +440,6 @@ Mathi barked an incredulous laugh. “That’s one way to put it.”
 
 He skimmed the article. Phrases leapt out at him: *behavioral adjacency misfires*, *unintended redeployment spirals*, *role dissolution events*, *compatibility misinterpretation*.
 
-// todo: too blunt
-He winced. The language felt like someone describing a broken relationship using only engineering terms.
-
 “They never say what actually happened,” he murmured.
 
 “They won’t,” Alma said. She spooned some foam from her tea and let it dissolve again. “Wall Street admits collapse the way people admit heartbreak. With a rebound.”
@@ -501,11 +498,6 @@ Augusta tapped the drawing again. “I’m thinking about places that know each 
 Mathi nodded slowly. “Like how a root system isn’t organized the way people want it to be.”
 
 “Yes!” Augusta said. “Messy on paper, perfect in practice.”
-
-// todo: ugh
-“There’s a kind of wisdom in it,” Alma said. “A quiet one.”
-
-Augusta’s eyes sparkled. “Not instructions. Not predictions. Just... noticing. And offering.”
 
 “This sketch feels like it wants to exist,” Alma said.
 
