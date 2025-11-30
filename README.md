@@ -60,7 +60,7 @@ No inclination to explain further. She was already pivoting to greet a regular w
 
 The man looked again at the slip of paper lying innocently beside his saucer. As if it had printed itself merely to pass the time.
 
-He peered carefully at the other diners. Perhaps there was something they knew that he didn't.
+He peered carefully at the other diners. Perhaps there was something they knew that he didn’t.
 
 At the counter, the teenager with the milkshake picked up her receipt, read it, and grinned.
 
@@ -86,7 +86,7 @@ The receipt printer behind the counter whirred, sputtered, then spat out another
 
 The overhead lights hummed with a soft warmth, flickering not in the way of old fixtures but in a way that suggested attention — like they brightened half a shade whenever someone laughed, dimmed gently when a conversation turned private. The griddle’s low sizzle blended with the refrigerator’s steady breath, creating an odd harmony, a domestic heartbeat under the mundane noise.
 
-The man watched as the printer finished with a theatrical final twitch - almost a flourish - and Frankie tore the paper free. She set it on a couple's table without ceremony. Neither diner looked surprised when they read the line at the bottom. They nodded once, like the match was something they’d expected.
+The man watched as the printer finished with a theatrical final twitch - almost a flourish - and Frankie tore the paper free. She set it on a couple’s table without ceremony. Neither diner looked surprised when they read the line at the bottom. They nodded once, like the match was something they’d expected.
 
 Maybe everyone here had grown accustomed to the diner’s small murmurs of insight. Maybe nobody questioned where the suggestions came from because the explanation, if it existed, was less interesting than the matches.
 
@@ -180,7 +180,7 @@ Augusta had scanned thousands of receipts by then, feeding them into a simple in
 
 Except it wasn’t behaving like a basic program.
 
-She searched a name to test something and the program suggested three others who were frequent booth-sharing companions. Except she hadn't asked it to. And none of their checks indicated anything about booth-sharing.
+She searched a name to test something and the program suggested three others who were frequent booth-sharing companions. Except she hadn’t asked it to. And none of their checks indicated anything about booth-sharing.
 
 “Odd,” Augusta murmured.
 
@@ -216,7 +216,7 @@ Augusta kept watching the printer like it might continue speaking.
 
 ***
 
-The first photo of a "suggestion receipt" appeared online courtesy of a tourist who’d stopped in for an omelet. Her slip read:
+The first photo of a “suggestion receipt” appeared online courtesy of a tourist who’d stopped in for an omelet. Her slip read:
 **Suggested collaborator for your quilt project.**
 
 She posted it with three laughing emojis and the caption: *this diner is legit*, and the internet, being the internet, latched on.
