@@ -405,21 +405,21 @@ They returned to their respective floors. Inside, their dashboards pulsed with n
 
 ## 4.
 
-The diner was in one of its long, honey-colored hours—late afternoon sliding toward evening, when the chrome caught the sun like it had been freshly polished, even though no one had touched it since noon. The air had a kind of warm laziness to it: people talked more slowly, forks lingered over plates, and the ceiling fan pretended its job was purely decorative.
+The diner was in one of its long, honey-colored hours. Late afternoon sliding toward evening, when the chrome caught the sun like it had been freshly polished, even though no one had touched it since noon. The air had a kind of warm laziness to it: people talked more slowly, forks lingered over plates, and the ceiling fan pretended its job was purely decorative.
 
-Mathi and Alma occupied the booth beneath the crooked blinds, the booth everyone claimed didn’t have a draft, but absolutely did. Their screens glowed with the faint green of soil data and neighborhood notes. They’d started with a joke—“What if we tracked saplings like people track fantasy football stats?”—but now they were looking at a map that felt genuinely alive. The pins clustered, wandered, sprouted. There were little tendrils of new volunteers, new soil tests, new hopeful plots in small backyards.
+Mathi and Alma occupied the booth beneath the crooked blinds, the booth everyone claimed didn’t have a draft, but absolutely did. Their screens glowed with the faint green of soil data and neighborhood notes. They’d started with a joke - “What if we tracked saplings like people track fantasy football stats?” - but now they were looking at a map that felt genuinely alive. The pins clustered, wandered, sprouted. There were little tendrils of new volunteers, new soil tests, new hopeful plots in small backyards.
 
-Frankie arrived with a rag slung over one shoulder and a glass of iced tea on the other. “Your plant thing is getting… what’s the horticultural term? Uppity?”
+Frankie arrived with a rag slung over one shoulder and a glass of iced tea on the other. “Your plant thing is getting... what’s the horticultural term? Uppity?”
 
 “It’s scaling,” Alma said.
 
 “It’s technically not scaling,” Mathi added.
 
-Frankie sighed. “God save me from genre pedants.”
+Frankie sighed. “Save me from genre pedants.”
 
-They grinned in unison—irritatingly coordinated, as if they’d practiced.
+They grinned in unison - irritatingly coordinated, as if they’d practiced.
 
-Across the diner, the receipt printer chirped for a trio of high-schoolers. One read the suggestion aloud. They all groaned in the exaggerated, joyful way of people whose embarrassment is purely theoretical. Someone dunked a fry into someone else’s shake. Harmony restored.
+Across the diner, the receipt printer chirped for a trio of high-schoolers. One read the suggestion aloud. They all groaned in the exaggerated, joyful way of people whose embarrassment is purely theoretical. Someone dunked a fry into someone else’s shake.
 
 Mathi’s eyes wandered to a tiny patch of paint on the far wall—newly chipped. Under the cream was peach, and under that, a deeper, dusty blue. Three diners layered on top of each other. He elbowed Alma and pointed.
 
@@ -431,30 +431,24 @@ She squinted. “This place is basically a palimpsest.”
 
 He nodded as if filing it away for later use in an argument.
 
-They fell into a working silence—not the polite kind, but the kind you get when everyone’s brain is pleasantly occupied. A spoon clinked. Someone dropped a fork. A child narrated the plot of a cartoon to an exhausted parent. It was all very alive.
+They fell into a working silence - not the polite kind, but the kind when everyone’s brain is pleasantly occupied. A spoon clinked. Someone dropped a fork. A child narrated the plot of a cartoon to an exhausted parent.
 
 Alma’s phone buzzed. She didn’t even try to hide the headline.
 
 **SYSTEMIC ALIGNMENT PROJECT ANNOUNCES STRATEGIC PIVOT**
 
-Mathi snorted. “Is that what we’re calling it? The great cosmic kablooey?”
+Mathi snorted. “Is that what we’re calling it? The great cosmic kablooey?” He skimmed through the article, eyes rolled at phrases like *behavioral adjacency miscalibration* and *redeployment drift*. “I can’t believe they can't just say they screwed up.”
 
-“Apparently they’ve discovered you can’t assign people to lives like you assign interns to departments,” Alma said, scrolling. “Shocking.”
-
-He skimmed over *behavioral adjacency miscalibration* and *redeployment drift*. “I can’t believe they didn’t test half this stuff.”
-
-“They did,” Alma said. “They just assumed the edge cases would behave.”
-
-He gestured around the diner. “Have you met people?”
-
-“Only the good ones,” she said, nodding at a woman who was showing her grandfather how to zoom on his phone by enlarging a picture of his dog.
+"It's like a relationship gone bad," Alma reasoned. "Best way past it is something new."
 
 Just then Augusta shouldered the kitchen door open, carrying a precarious tower of clean glasses and an even more precarious stack of sketches. Her hair had acquired three new pencils since breakfast.
 
 “Hey,” she said, as if picking up a conversation they’d been having for days, “do either of you know the square footage of the alley behind that bakery on Mercer?”
 
 “No,” Alma said, without looking up.
+
 “Absolutely not,” Mathi added.
+
 “Cool,” Augusta said, satisfied.
 
 Frankie arrived with a box of napkins, stopped short, and groaned. “Oh no. Not the sketches.”
@@ -463,7 +457,7 @@ Frankie arrived with a box of napkins, stopped short, and groaned. “Oh no. Not
 
 “They’re a cry for help.”
 
-Mathi leaned over. “Let me guess—new patio? Floating greenhouse? Subterranean waffle lab?”
+Mathi leaned over. “Let me guess - new patio? Floating greenhouse? Subterranean waffle lab?”
 
 Augusta beamed. “You joke, but two of those are excellent ideas.”
 
@@ -475,7 +469,7 @@ Frankie thumped the napkin box onto the table. “People keep asking if we’re 
 
 Augusta spread out the sketches: breezeways, sunlit rooms, a tiny annex shaped suspiciously like the letter L. One drawing had a roofline that swooped like it was trying to impress someone.
 
-Frankie nudged the papers with one finger. “I mean… if we ever did something… it shouldn’t be a clone. More like—”
+Frankie nudged the papers with one finger. “If we ever did create a second place - and that's an *if*, mind you - it shouldn’t be a clone. More like-”
 
 “A cousin?” Mathi suggested.
 
@@ -487,15 +481,15 @@ Augusta tapped one sketch. “Places that aren’t copies but… talk to each ot
 
 Augusta made a face. “Ugh, don’t say network. Makes me think of lanyards.”
 
-Frankie leaned a hip against the booth, arms crossed. “What if it isn’t a network. What if it’s just… places that know how to wave to each other? Like trees in a grove. They’re individual, but if you stand back—”
+Frankie leaned a hip against the booth, arms crossed. “What if it isn’t a network. What if it’s just... places that know how to wave to each other? Like trees in a grove. They’re individual, but if you stand back-”
 
 “They rhyme,” Mathi said quietly.
 
-Frankie pointed at him. “Yes, that. Rhyme. Not match.”
+Frankie pointed at him. “Yes, that. Rhyme.”
 
 “And the roots don’t care what the plan looks like,” Alma added. “They go where the water is.”
 
-A long pause—the good kind—settled over them.
+A long pause settled over the group.
 
 Then Frankie said, “If any of these start printing me building permits, I’m leaving town.”
 
@@ -505,16 +499,10 @@ At the counter, the receipt printer whirred, almost on cue. Everyone glared at i
 
 By the time dinner rolled around, the diner had slipped into its evening personality. The windows reflected more interior light than exterior, like the room was turning inward.
 
-They had soup—miso for Alma, lentil curry for Mathi. Frankie brought the check over and dropped it face-down, already walking away.
+They had soup - miso for Alma, lentil curry for Mathi. Frankie brought the check over and dropped it face-down, already walking away.
 
 Mathi flipped it over.
 
 Numbers. Tip line. And at the bottom, printed like it wasn’t sure whether it should be saying anything at all:
 
 **good team**
-
-Mathi slid it across the table to Alma without commentary. She read it, cracked a smile, and shook her head.
-
-“Well,” she said, “the diner’s not wrong.”
-
-And neither of them argued.
