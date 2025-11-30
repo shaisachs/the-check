@@ -511,7 +511,6 @@ They had soup for dinner - miso for Alma, lentil curry for Mathi.
 
 Frankie left their check face down on the table, a casual gesture. Mathi reached for it, more out of habit than anything, but paused when he turned it over.
 
-The numbers were there - subtotal, tax, a polite space for tip. But at the bottom, tucked almost shyly into the lower margin, were two words printed in the smallest font the machine could manage:
+The numbers were there - subtotal, tax, a polite space for tip. But at the bottom, printed almost shyly into the lower margin, were two words curled in soft loops:
 
-// todo: kind of hate this
 **good team**
