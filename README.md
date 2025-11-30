@@ -36,7 +36,7 @@ She didn’t even glance at it. “Yep.”
 
 He didn’t know whether to laugh or to run.
 
-Frankie, meanwhile, was already moving toward the next table, coffee pot in hand.
+Frankie, meanwhile, was already moving toward the next table.
 
 When she circled back, wiping her hands on her apron, the man gestured her over with the sheepish gravity of someone about to ask something he feared might be obvious to everyone else.
 
@@ -48,7 +48,7 @@ Frankie snorted, a tiny, private sound. “No. It’s Augusta’s project.”
 
 “My cousin.” A beat. “Visiting for a bit. Very thorough.”
 
-The man looked up at Frankie, as though hopefully expecting more. But she gave hima funny sort of half-frown, as though tasting a creatively-spiced experiment in pasta sauce.
+The man looked up at Frankie, as though hopefully expecting more. But she gave him a funny sort of half-frown, as though tasting a creatively-spiced experiment in pasta sauce.
 
 “People say it works,” she added.
 
@@ -82,7 +82,7 @@ The suggestions were strange — too specific to be meaningless, too gentle to b
 
 The man folded his slip and tucked it into his wallet. For later, he told himself, though he wasn’t sure what “later” meant.
 
-The receipt printer behind the counter whirred, sputtered, then spat out another check as though clearing its throat. The sound carried a faint sense of deliberation. Frankie didn’t touch it. No one had pressed a button. The machine worked in its own rhythm: pauses that felt contemplative, followed by little bursts of decisiveness. Like someone muttering to themselves while solving a crossword.
+The receipt printer behind the counter whirred, sputtered, then spat out another check as though clearing its throat. The sound carried a faint sense of deliberation. Frankie didn’t touch it. No one had pressed a button. The machine worked in its own rhythm: pauses that felt contemplative, followed by little bursts of decisiveness. Like someone muttering to herself while solving a crossword.
 
 The overhead lights hummed with a soft warmth, flickering not in the way of old fixtures but in a way that suggested attention — like they brightened half a shade whenever someone laughed, dimmed gently when a conversation turned private. The griddle’s low sizzle blended with the refrigerator’s steady breath, creating an odd harmony, a domestic heartbeat under the mundane noise.
 
@@ -104,7 +104,7 @@ Inside, the air smelled faintly of bleach and lemon oil, as though Frankie had a
 
 Augusta stood in the aisle like an explorer surveying ruins. Her hair was shoved into a bun that had clearly been negotiated rather than styled. She wore a sweater with sleeves pushed past her elbows and a look of delighted overwhelm.
 
-“I swear it wasn’t always such a mess,” Frankie muttered as she tried to shove a dolly - laden with boxes of mysterious provenance - toward the storage room.
+“I swear it wasn’t always such a mess,” Frankie muttered as she tried to shove a dolly laden with boxes of mysterious provenance toward the storage room.
 
 Augusta smiled without teasing. “That’s because there was a system.”
 
@@ -122,7 +122,7 @@ They laughed quietly together - an easy, shared rhythm that made the task feel m
 
 Outside, the sound of snowmelt tapping onto a metal bucket offered a slow, rhythmic accompaniment.
 
-The diner hummed—a low, collective murmur of refrigerators, lights, and vents—as though it were listening in.
+The diner hummed - a low, collective murmur of refrigerators, lights, and vents - as though it were listening in.
 
 Frankie braced herself and shouldered the storage room door open. It resisted with the stubbornness of a place that had been neglected long enough to develop opinions. When it finally gave way, something inside shifted with a soft *shfff*, and a box slid out, thumping against her boot.
 
@@ -146,21 +146,23 @@ Frankie’s groan was half-embarrassment, half-affection.
 
 Augusta pulled one bundle free and set it on the counter like it was fragile. The handwriting curled in soft loops along the margins. Each slip felt like a miniature diary entry from someone who had always noticed more than he let on.
 
-The dining room felt suddenly smaller, or maybe warmer—memory pressing in without suffocating.
+The dining room felt suddenly smaller, or maybe warmer - memory pressing in without suffocating.
+
+***
 
 The next morning, Augusta arrived with a flatbed scanner that looked suspiciously fresh for something she claimed to have “borrowed.” It took up half the counter, its cord snake-trailing behind the pie display.
 
-“Please tell me you’re not scanning *all* of it,” Frankie said, pouring herself a coffee.
+“Please tell me you’re not scanning *all* of it,” Frankie said.
 
 “Not today,” Augusta said. “But soon. Paper fades. Memories too. Might as well save what we can.”
 
 She set to work with clinical enthusiasm: lift a receipt, flatten it gently, press the lid of the scanner closed, tap the keyboard with a flourish. The machine hummed with a steady, patient rhythm.
 
-Frankie watched her for a while, then wandered off to reorganize the tea shelf-a task she’d been avoiding for months. Every few minutes, the soft whir of the scanner drifted through the diner, creating a kind of irregular heartbeat.
+Frankie watched her for a while, then wandered off to reorganize the tea shelf - a task she’d been avoiding for months. Every few minutes, the soft whir of the scanner drifted through the diner.
 
 “You know these aren’t historically important,” Frankie said eventually.
 
-Augusta held up a receipt with a swirl of arrows and a note that said *ask about the dog park—he’ll appreciate it*.
+Augusta held up a receipt with a swirl of arrows and a note that said *ask about the dog park - he’ll appreciate it*.
 
 “This check is history,” she said. “Just not the kind museums know how to display.”
 
@@ -216,20 +218,19 @@ Augusta kept watching the printer like it might continue speaking.
 
 ***
 
-The first photo of a “suggestion receipt” appeared online courtesy of a tourist who’d stopped in for an omelet. Her slip read:
-**Suggested collaborator for your quilt project.**
+The first photo of a “suggestion receipt” appeared online courtesy of a tourist who’d stopped in for an omelet. Her slip read: **Suggested collaborator for your quilt project.**
 
 She posted it with three laughing emojis and the caption: *this diner is legit*, and the internet, being the internet, latched on.
-x
+
 Within days, the diner saw an uptick in customers - curious locals, intrigued travelers, people who claimed they “just happened to be passing through” despite having license plates from two states over.
 
-The suggestions varied wildly: **Try the farmers’ market at dawn. You’ll meet him there.**; **Knitters’ circle—Mondays. Bring snacks.**; **Volunteer for the creek cleanup. You’ll like who shows up.**; **Ask about the lemon bars recipe. Trust us.**
+The suggestions varied wildly: **Try the farmers’ market at dawn. You’ll meet him there.**; **Knitters’ circle - Mondays. Bring snacks.**; **Volunteer for the creek cleanup. You’ll like who shows up.**; **Ask about the lemon bars recipe. Trust us.**
 
 A pair of retirees found a shared hobby after their receipts nudged them toward the same birdwatching group. A teenager discovered a friend who loved the same obscure space opera series. A pair of musicians realized they’d both been writing songs alone and started meeting on Thursdays.
 
 People lingered longer. Conversations stretched. Laughter became more frequent, softer but richer.
 
-A journalist came through and described the place as “an oracle disguised as a grill.” Frankie snorted through her nose when she read it but clipped the article and stuck it to the fridge.
+A journalist came through and described the place as “an oracle disguised as a grill.” Frankie shook her head when she read it but clipped the article and stuck it to the fridge.
 
 The printer chugged along unbothered, offering its suggestions without fanfare. Frankie and Augusta didn’t try to explain it. They didn’t really want to.
 
@@ -237,15 +238,15 @@ It was enough that people kept finding each other.
 
 ## 3.
 
-Mathi arrived at his desk with the calm resignation of a man who knows exactly what the day portends. He set down his bag, opened his terminal, and began reading through a half-written onboarding document he could have sworn he’d finished yesterday. The system had reassigned him as the “documentation lead” for something called the Branch Ledger Integration Initiative, which he’d never heard of, and which bore no relation to the biodiversity project he’d been working on last week.
+Mathi arrived at his desk with the calm resignation of a man who knows exactly what the day would bring. He set down his bag, opened his terminal, and began reading through a half-written onboarding document he could have sworn he’d finished yesterday. The system had reassigned him as the “documentation lead” for something called the Branch Ledger Integration Initiative, which he’d never heard of, and which bore no relation to the biodiversity project he’d been working on last week.
 
 He clicked through the project’s page. Three names appeared under “Team Members”: his own, someone named J. Patel, and someone named Weatherford (temp). Weatherford had no first name and no profile picture, which was a bad sign. Temporary assignments tended to vanish mid-sentence.
 
 A minute later the names blinked, refreshed, and rearranged themselves.
 
-Suddenly he was part of a two-person emergency analysis team on a completely different project - Hyperlocal Routing Optimization, Pilot Region 7. A project tagged ARCHIVED. His teammate was listed as McSomething—the system truncated the rest.
+Suddenly he was part of a two-person emergency analysis team on a completely different project - Hyperlocal Routing Optimization, Pilot Region 7. A project tagged ARCHIVED. His teammate was listed as McSomething - the system truncated the rest.
 
-The absurdity wasn’t even the project. It was that the system had paired him with a delivery fleet specialist to do geo-statistical forecasting, which was neither of their fields.
+The absurdity wasn’t even the project. It was that the system had paired him with a delivery fleet specialist to do geo-statistical forecasting, which was a discipline he never knew existed.
 
 Someone walked behind him and muttered, “Oh, come on.”
 
@@ -257,11 +258,13 @@ There was no point trying to work until the system finished its spasms. And desp
 
 He stood, stretched his back, and made a quiet decision to step outside.
 
+***
+
 One floor above, Alma was having a similar morning.
 
 Her reassignment had begun subtly: a single unexpected meeting invite, then a shift in her “role emphasis,” then a complete erasure of her usual task queue.
 
-Her new assignments made no sense. She had been moved into a “partnership incubation pod” with: a materials engineer, a copywriter, and a former horticultural intern she vaguely remembered seeing in the elevator once. His profile listed his current role as “floating.”
+Her new assignments made no sense. She had been moved into a “partnership incubation pod” with a materials engineer, a copywriter, and a former horticultural intern she vaguely remembered seeing in the elevator once. His profile listed his current role as “floating.”
 
 They were supposed to pitch something on Monday.
 
@@ -285,9 +288,11 @@ Outside, blue sky. Clear light. A warmth that surprised her.
 
 The park two blocks away drew her like a magnet. Mostly because of the trees. One tree in particular.
 
-It wasn’t a big park, nor particularly lovely by any urban-planner standards. But Alma had found early on that she preferred it to the company courtyard with its carefully curated seating pods. The park had grass that sometimes grew unevenly, and trees that weren’t pruned to uniform silhouettes. It had birds that did not respect boundaries. And it had the seventh tree - the one slightly off-center from the path, with a canopy wide enough to subdue even the sharpest midday sun.
+It wasn’t a big park, nor particularly lovely by any urban-planner standards. But Alma had found early on that she preferred it to the company courtyard with its carefully curated seating pods. The park had grass that sometimes grew unevenly, and trees that weren’t pruned to uniform silhouettes. It had birds that did not respect boundaries. And it had the fifth tree - the one slightly off-center from the path, with a canopy wide enough to subdue even the sharpest midday sun.
 
 She crossed the street toward it.
+
+***
 
 Mathi reached the tree first. He could feel the ground soften beneath his steps as he approached. This tree was an old companion of his midday escapes.
 
@@ -337,7 +342,7 @@ Mathi brightened. “And you get to find out what the city tastes like.”
 
 They ate for a bit in comfortable quiet.
 
-Around them the park hummed along in its usual patchy harmony - traffic muffled by distance, children laughing too loudly from somewhere near the fountain, birds competing for scraps on the path. The wind moved the leaves of the seventh tree in soft, intermittent breaths, shading first Mathi, then Alma, then both at once.
+Around them the park hummed along in its usual patchy harmony - traffic muffled by distance, children laughing too loudly from somewhere near the fountain, birds competing for scraps on the path. The wind moved the leaves of the fifth tree in soft, intermittent breaths, shading first Mathi, then Alma, then both at once.
 
 After a while, Alma wiped her mouth with a napkin and asked, “Did you get reassigned to a bunch of teams that made no sense today?”
 
@@ -379,13 +384,13 @@ Alma nodded. “And stability is a chance to think.”
 
 They ate in companionable quiet for a minute or two, until a squirrel performed an unnecessarily acrobatic leap from a branch above them and landed with a thump so undignified it startled both of them.
 
-Alma snorted. “Show-off.”
+Alma booed. “Show-off.”
 
 “It stuck the landing,” Mathi observed. “Nine out of ten.”
 
 “Seven,” Alma corrected. “Points deducted for theatrics.”
 
-Mathi considered this. “I didn’t realize you were a strict judge.”
+Mathi considered her point. “I didn’t realize you were a strict judge.”
 
 “Only for squirrels,” she said. “People get a lot more leniency.”
 
@@ -499,7 +504,7 @@ Mathi shrugged. “Maybe it was trying to see what stuck.”
 
 He gestured around them. “About who wanders outside at eleven thirty.”
 
-Alma gave him a look that was half skeptical, half amused. “That’s your theory?”
+Alma gave him a look that was half-skeptical, half-amused. “That’s your theory?”
 
 “It’s better than ‘the system is haunted.’”
 
@@ -525,7 +530,7 @@ The diner was in one of its long, honey-colored hours. Late afternoon sliding to
 
 Mathi and Alma occupied the booth beneath the crooked blinds, the booth everyone claimed didn’t have a draft, but absolutely did. Their screens glowed with the faint green of soil data and neighborhood notes. They’d started with a joke - “What if we tracked saplings like people track fantasy football stats?” - but now they were looking at a map that felt genuinely alive. The pins clustered, wandered, sprouted. There were little tendrils of new volunteers, new soil tests, new hopeful plots in small backyards.
 
-Frankie arrived with a rag slung over one shoulder and a glass of iced tea on the other. “Your plant thing is getting... what’s the horticultural term? Uppity?”
+Frankie arrived with a rag slung over one shoulder and a glass of iced tea in her hand. “Your plant thing is getting... what’s the horticultural term? Uppity?”
 
 “It’s scaling,” Alma said.
 
@@ -567,7 +572,7 @@ Just then Augusta shouldered the kitchen door open, carrying a precarious tower 
 
 “Cool,” Augusta said, satisfied.
 
-Frankie arrived with a box of napkins, stopped short, and groaned. “Oh no. Not the sketches.”
+Frankie looked up, and groaned. “Oh no. Not the sketches.”
 
 “They’re harmless,” Augusta said.
 
@@ -577,7 +582,7 @@ Mathi leaned over. “Let me guess - new patio? Floating greenhouse? Subterranea
 
 Augusta beamed. “You joke, but two of those are excellent ideas.”
 
-Frankie thumped the napkin box onto the table. “People keep asking if we’re opening another location. As if you can just photocopy a diner. The printer would mutiny.”
+Frankie yanked away the stack of sketches. “People keep asking if we’re opening another location. As if you can just photocopy a diner. The printer would mutiny.”
 
 “It mutinies anyway,” Mathi said.
 
@@ -599,15 +604,13 @@ Augusta made a face. “Ugh, don’t say network. Makes me think of lanyards.”
 
 Frankie leaned a hip against the booth, arms crossed. “What if it isn’t a network. What if it’s just... places that know how to wave to each other? Like trees in a grove. They’re individual, but if you stand back-”
 
-“They rhyme,” Mathi said quietly.
+“They rhyme,” Mathi provided.
 
 Frankie pointed at him. “Yes, that. Rhyme.”
 
 “And the roots don’t care what the plan looks like,” Alma added. “They go where the water is.”
 
 A long pause settled over the group.
-
-Then Frankie said, “If any of these start printing me building permits, I’m leaving town.”
 
 At the counter, the receipt printer whirred, almost on cue. Everyone glared at it.
 
@@ -619,6 +622,6 @@ They had soup - miso for Alma, lentil curry for Mathi. Frankie brought the check
 
 Mathi flipped it over.
 
-Numbers. Tip line. And at the bottom, printed like it wasn’t sure whether it should be saying anything at all:
+Numbers. Tip line. And at the bottom, curled in soft loops:
 
 **good team**
