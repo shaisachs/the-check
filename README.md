@@ -377,23 +377,139 @@ Mathi said, “I get that. Variety is a kind of information.”
 
 Alma nodded. “And stability is a chance to think.”
 
-They sat under the shifting shade of the seventh tree, letting the breeze scatter their thoughts.
+They ate in companionable quiet for a minute or two, until a squirrel performed an unnecessarily acrobatic leap from a branch above them and landed with a thump so undignified it startled both of them.
 
-At one point, two sparrows landed five feet from them and began squabbling over a stray piece of lettuce. The smaller bird won. They both watched, amused.
+Alma snorted. “Show-off.”
 
-When the sparrows flew away, Alma said, “Do you ever feel like the system... listens?”
+“It stuck the landing,” Mathi observed. “Nine out of ten.”
 
-Mathi considered. “Not listens. But maybe... observes?”
+“Seven,” Alma corrected. “Points deducted for theatrics.”
 
-“Like it’s trying to guess what we mean from the things we don’t think about twice.”
+Mathi considered this. “I didn’t realize you were a strict judge.”
 
-“And then puts us in teams that make no sense,” Mathi concluded.
+“Only for squirrels,” she said. “People get a lot more leniency.”
 
-Alma grinned. “The predictions need work.”
+He grinned, then shook the tiny container of dressing again with the exaggerated solemnity of someone about to perform a science experiment.
 
-They ate the last of their lunches. The sun shifted. The wind picked up a bit, carrying the smell of citrus from Alma’s dish.
+“That is an intense amount of commitment to emulsification,” Alma said.
 
-Finally, as if by mutual understanding, they stood.
+“Texture matters,” he answered. “I have standards.”
+
+“I can tell. I can feel your standards radiating across the grass.”
+
+He raised a brow. “What about yours? You squeezed that lime wedge like you were interrogating it.”
+
+“It deserved it,” she said lightly. “It wasn’t being forthcoming.”
+
+They returned to eating, the breeze shifting through the canopy overhead with a rustling sound like pages being flipped too fast to read.
+
+A minute later, Alma reached into her bag for a napkin and accidentally pulled out a handful of tangled meeting badges - bright lanyards from past reorg “summits,” all with aggressively reassuring slogans.
+
+Mathi’s eyes widened. “Oh no.”
+
+She groaned. “Please don’t.”
+
+“‘Synergy Starts With You’?” he read aloud, horrified. “You kept these?”
+
+“I didn’t mean to. They multiply.”
+
+He held up one with a cartoon gear smiling far too enthusiastically. “‘Friction Is Just Misunderstood Momentum.’”
+
+Alma put her face in her hands. “I hate that one.”
+
+“You should,” Mathi said. “It’s an affront to both physics and humanity.”
+
+She tossed the whole bunch back into her bag. “I keep meaning to throw them out, but it feels like bad luck.”
+
+“Superstition?”
+
+“No,” she said. “They might grow legs and come back.”
+
+He nodded gravely. “They might.”
+
+The wind stirred again. The shifting light dappled Mathi’s lunch in alternating shadows, like the tree was thinking about something and couldn’t make up its mind.
+
+“Do you sit under this tree a lot?” Alma asked.
+
+“When I can escape. It’s the only place I can actually hear myself think.”
+
+“Same,” she said. “I’ve tried working in those new focus pods in the lobby. I lasted eight minutes.”
+
+“Too sterile?”
+
+“Too whispery,” she said. “Everyone in them whispers. It’s like being inside a library inside a library.”
+
+Mathi laughed. “You know the sixth tree?” he asked, nodding vaguely toward a thinner one near the park’s edge. “I tried it once. Terrible shade pattern. Total diva.”
+
+Alma pointed at him. “You are assigning personalities to trees.”
+
+“I’m observing,” he corrected.
+
+“You’re anthropomorphizing foliage.”
+
+“Says the woman who interrogated a lime.”
+
+She rolled her eyes, but she was smiling.
+
+A jogger passed by. The squirrel from earlier hurled a pinecone at absolutely nothing.
+
+“Okay,” Alma said, leaning back on her hands. “Worst assignment you got this week.”
+
+“That’s easy,” Mathi said. “I was put on a task force called ‘Northwest Corridor Happiness Metrics Expansion.’”
+
+“What were you supposed to do?”
+
+“No idea. The description just said, ‘Bring optimism.’”
+
+She cackled. “That’s awful.”
+
+“Your turn.”
+
+Alma unwrapped a second napkin. “I got assigned to evaluate ‘cross-modal experiential footprints.’”
+
+“That isn’t a real thing.”
+
+“Exactly,” she said. “And they scheduled a demo.”
+
+“What did they demo?”
+
+“Their confusion,” she said.
+
+A gust of wind pushed a few leaves off a branch overhead. One drifted down between them, landing right on Alma’s untouched second lime wedge.
+
+She eyed it. “See? Even the tree thinks the lime wasn’t pulling its weight.”
+
+Mathi picked up the leaf, held it up to the light. “You know,” he said, “I think this tree actually likes us.”
+
+“Or,” Alma said, “it’s judging us.”
+
+“That too.”
+
+A comfortable quiet followed. The shade swayed. Traffic sighed in the distance. A dog barked at something profoundly ordinary.
+
+Finally Alma said, “You ever think it’s strange we ended up on all those mismatched teams? Like the system wanted to shake the snow globe a little?”
+
+Mathi shrugged. “Maybe it was trying to see what stuck.”
+
+“Nothing stuck.”
+
+“True,” he said. “But maybe it learned something.”
+
+“About what?”
+
+He gestured around them. “About who wanders outside at eleven thirty.”
+
+Alma gave him a look that was half skeptical, half amused. “That’s your theory?”
+
+“It’s better than ‘the system is haunted.’”
+
+She considered this. “Only slightly.”
+
+They ate the last bites of their lunches. The breeze turned cooler. A cloud passed briefly, dimming the light, making the tree’s canopy feel like a heavier shelter.
+
+At the same moment, both of them stood.
+
+The tree rustled as though closing a book.
 
 When they reached the corner where their paths diverged, they paused at almost the same moment.
 
