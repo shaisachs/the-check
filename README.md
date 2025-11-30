@@ -423,13 +423,6 @@ The diner was in a benevolent mood that day - watchful, patient, amused by the w
 
 Mathi noticed a small patch of paint on the far wall he’d never really looked at before - a tiny chipped area revealing older colors underneath. Peach beneath cream, beneath an even older shade of dusty blue. The place was layered, lived-in, accumulated. Like tree rings that didn’t bother arranging themselves into tidy circles.
 
-He exhaled. His whole body softened.
-
-// todo: might be a little too suggestive
-Alma nudged him gently with her knee, wordlessly asking if he was okay.
-
-He gave her the half-smile reserved for people who already understand the answer.
-
 They worked in a silence that wasn’t empty. It felt more like the silence of a garden: the quiet that’s full of small, earnest activity.
 
 Alma’s phone buzzed once. She lifted it, read, and tilted the screen toward him.
