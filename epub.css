@@ -1,0 +1,58 @@
+
+/* General body styling */
+body {
+  font-family: serif;
+  line-height: 1.4;
+  margin: 0;
+  padding: 0;
+}
+
+/* Title page */
+.titlepage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.titlepage .title {
+  font-size: 2em;
+  letter-spacing: 0.1em;
+}
+
+.titlepage .byline {
+  margin-top: 2em;
+  font-size: 1em;
+  letter-spacing: 0.08em;
+}
+
+/* Copyright page */
+.copyright {
+  margin-top: 30%;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: 0.9em;
+  text-align: center;
+}
+
+/* Main book title */
+.book-title {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.5em;
+  margin-top: 4em;
+  margin-bottom: 4em;
+  letter-spacing: 0.1em;
+}
+
+/* Chapter spacing */
+h1, h2, h3 {
+  page-break-after: avoid;
+}
+
+p {
+  margin: 0 0 1em 0;
+}
+
