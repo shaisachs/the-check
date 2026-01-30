@@ -64,9 +64,11 @@ body {
 }
 
 /* Chapter spacing */
+/*
 h1, h2, h3 {
   page-break-after: avoid;
 }
+*/
 
 p {
   margin: 0 0 1em 0;
