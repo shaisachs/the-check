@@ -1,6 +1,6 @@
 FROM pandoc/core:latest
 
-WORKDIR /data
+WORKDIR /app
 
 COPY metadata.yaml .
 COPY epub.css .
@@ -9,7 +9,7 @@ COPY copyright.md .
 COPY README.md .
 COPY cover.jpg .
 
-CMD ["pandoc"]
+ENTRYPOINT ["pandoc"]
 
-# docker run --rm -v "$(pwd):/data" pandoc/core:latest pandoc metadata.yaml titlepage.md copyright.md main.md --css=epub.css --epub-cover-image=cover.jpg --toc --metadata-file=metadata.yaml -o the-check.epub
-
+# docker build -t the-check .
+# docker run --rm -v $(pwd):/app the-check titlepage.md copyright.md README.md --css=epub.css --epub-cover-image=cover.jpg --metadata-file=metadata.yaml -o the-check.epub 

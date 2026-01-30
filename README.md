@@ -1,5 +1,5 @@
 
-<div class="book-title">THE CHECK</div>
+# The Check
 
 ## 1.
 
