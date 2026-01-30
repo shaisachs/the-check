@@ -28,6 +28,22 @@ body {
   letter-spacing: 0.08em;
 }
 
+/* Dedication page */
+.dedicationpage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.dedicationpage .dedication {
+  font-size: 1em;
+  font-style: italic
+}
+
+
 /* Copyright page */
 .copyright {
   margin-top: 30%;
